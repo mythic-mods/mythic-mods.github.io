@@ -1,5 +1,5 @@
 #name: Hank Quinlan, Horrible Cop
 #markdown: kramdown
-remote_theme: karloespiritu/BlackDoc
+remote_theme: pmarsceill/just-the-docs
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
