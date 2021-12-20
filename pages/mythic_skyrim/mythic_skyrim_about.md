@@ -5,4 +5,5 @@ sidebar: main-sidebar
 permalink: mythic_skyrim_about.html
 ---
 Welcome!
+
 {% include links.html %}
