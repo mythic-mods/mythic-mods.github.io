@@ -19,8 +19,8 @@ entries:
     - title: Installation
       url: /mythic-skyrim-installation.html
       output: web
-    - title: Playing Mythic Skyrim
-      url: /mythic-skyrim-playing.html
+    - title: Start Playing
+      url: /mythic-skyrim-start-playing.html
       output: web
       
 # Copyright 2021 Google LLC
