@@ -1,5 +1,6 @@
 entries:
 - title: Sidebar
+  product: Player Handbook
   levels: one
   folders:
 
@@ -7,10 +8,10 @@ entries:
     output: web
     folderitems:
     - title: Introduction
-      url: /news.html
+      url: /mythic-skyrim-introduction.html
       output: web
     - title: Installation
-      url: /mydoc_introduction.html
+      url: /mythic-skyrim-installation.html
       output: web
       
 # Copyright 2021 Google LLC
