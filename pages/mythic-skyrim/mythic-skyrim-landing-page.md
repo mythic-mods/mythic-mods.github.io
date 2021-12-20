@@ -1,6 +1,5 @@
 ---
 title: Mythic Skyrim
-keywords: mydoc
 sidebar: mythic-skyrim-sidebar
 toc: false
 permalink: mythic-skyrim-landing-page.html
