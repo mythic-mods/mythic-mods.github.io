@@ -36,13 +36,12 @@ If you only have a free Nexus account, Wabbajack will open the Nexus mod pages f
 Afterwards, it will proceed with the installation as usual.
 
 ### Installation Process
-You can follow along as Wabbajack installs the list.
-It will display previews with summaries and links to the mods being installed.
+As Wabbajack downloads the modlist, previews will be displayed of the mods being installed.
 Unless the installation is aborted completely, you don’t have to worry about any warnings.
 You will be prompted when the installation process is complete.
 
 ### Troubleshooting Installation
-In case the installation does fail: restart Wabbajack. You will not lose progress as the tool will pick up where it left of.
+In the case of a failed installation: restart Wabbajack. You will not lose progress as the tool will pick up where it left of.
 You can find all Wabbajack logs in your Wabbajack installation folder under `\Wabbajack\logs\`.
 
 [Wabbajack]: https://www.wabbajack.org/#/
