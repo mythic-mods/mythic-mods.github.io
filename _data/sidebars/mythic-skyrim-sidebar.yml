@@ -13,5 +13,8 @@ entries:
     - title: Installation
       url: /mythic-skyrim-installation.html
       output: web
+    - title: Requirements
+      url: /mythic-skyrim-requirements.html
+      output: web
       
 # Copyright 2021 Google LLC
