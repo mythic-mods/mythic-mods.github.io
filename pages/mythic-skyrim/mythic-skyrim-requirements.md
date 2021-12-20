@@ -4,8 +4,8 @@ sidebar: mythic-skyrim-sidebar
 toc: true
 permalink: mythic-skyrim-requirements.html
 folder: mythic-skyrim
+summary: The following are required to install and play Mythic Skyrim.
 ---
-The following are required to install and play Mythic Skyrim.
 
 ## General Requirements
 * Skyrim Anniversary Edition on Steam
