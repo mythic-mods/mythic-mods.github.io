@@ -1,0 +1,16 @@
+entries:
+- title: Sidebar
+  levels: one
+  folders:
+
+  - title: Getting Started
+    output: web
+    folderitems:
+    - title: Introduction
+      url: /news.html
+      output: web
+    - title: Installation
+      url: /mydoc_introduction.html
+      output: web
+      
+# Copyright 2021 Google LLC
