@@ -12,9 +12,9 @@ topnav:
 topnav_dropdowns:
 - title: Topnav dropdowns
   folders:
-    - title: Wabbajack
+    - title: Resources
       folderitems:
-        - title: Download
+        - title: Wabbajack
           external_url: https://www.wabbajack.org/#/
     - title: Modlists
       folderitems:
