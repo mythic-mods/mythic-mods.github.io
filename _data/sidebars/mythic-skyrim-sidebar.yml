@@ -10,14 +10,14 @@ entries:
     - title: Introduction
       url: /mythic-skyrim-introduction.html
       output: web
-    - title: Installation
-      url: /mythic-skyrim-installation.html
-      output: web
     - title: Requirements
       url: /mythic-skyrim-requirements.html
       output: web
     - title: Steam Setup
       url: /mythic-skyrim-steam-setup.html
+      output: web
+    - title: Installation
+      url: /mythic-skyrim-installation.html
       output: web
       
 # Copyright 2021 Google LLC
