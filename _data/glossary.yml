@@ -1,3 +1,4 @@
 mcm: "Mod Configuration Menus allow the user to customize certain mod settings through a user interface added by the mod SkyUI."
+stock_game_folder: "A Stock Game Folder system uses a separate instance of the Skyrim game installation encapsulated within the Mod Organizer 2 directory, thereby keeping the original game directory in an unmodded (or stock) condition."
 
 # Copyright 2021 Google LLC
