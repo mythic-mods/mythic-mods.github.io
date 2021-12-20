@@ -10,10 +10,10 @@ Ensure you have followed the steps outlined in the Steam Setup page before proce
 
 ## Wabbajack Installation
 Wabbajack should be installed to a top-level folder that is not UAC protected in the same way you setup your Steam Library in previous steps.
-A top-level folder such as G:\Wabbajack\ is once again recommended as the installation directory.
+A top-level folder such as `G:\Wabbajack\` is once again recommended as the installation directory.
 Create a new top-level folder in a location that is not UAC protected and name it `Wabbajack`
 
-Download the Wabbajack application directly from the website: 
+Download the [Wabbajack] application directly from the website: 
 * Click the Download button on the home page of the Wabbajack site.
 * Move the downloaded `Wabbajack.exe` into the `Wabbajack` folder you previously created.
 * Double-click `Wabbajack.exe` to launch the application.
@@ -24,7 +24,7 @@ You can now install Mythic Skyrim through Wabbajack:
 * Click the Browse Modlists button in the Wabbajack tool.
 * Find Mythic Skyrim in the gallery of mod lists and click the arrow button to download the installation file.
 * In the installation window, you will need to define two folders:
-  * Installation Location is where Mythic Skyrim will be installed to. Choose a high-level folder such as G:\Mythic Skyrim\ that is outside UAC protected folders (Program Files, Documents, etc).
+  * Installation Location is where Mythic Skyrim will be installed to. Choose a high-level folder such as `G:\Mythic Skyrim\` that is outside UAC protected folders (Program Files, Documents, etc).
   * Download Location is where the downloaded mod archives will be stored. By default, they will be placed within your main Mythic Skyrim folder, but you can change the file path if you want to keep the files elsewhere.
 * Once both folder locations have been set, click the button on the right to begin the installation process. 
 
@@ -44,3 +44,5 @@ You will be prompted when the installation process is complete.
 ### Troubleshooting Installation
 In case the installation does fail: restart Wabbajack. You will not lose progress as the tool will pick up where it left of.
 You can find all Wabbajack logs in your Wabbajack installation folder under `\Wabbajack\logs\`.
+
+[Wabbajack]: https://www.wabbajack.org/#/
