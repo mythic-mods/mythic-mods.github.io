@@ -6,10 +6,10 @@ plugins:
 - jekyll-remote-theme
 
 # this appears on the top navigation bar next to the home button
-topnav_title: Mythic Skyrim
+topnav_title: Mythic Mods
 
 # this appears in the html browser tab for the site title (seen mostly by search engines, not users)
-site_title: Mythic Skyrim
+site_title: Mythic Mods
 
 # this appears in the footer
 company_name: Copyright 2021
@@ -40,7 +40,7 @@ exclude:
   - vendor
 
 # Feedback
-feedback_subject_line: Mythic Skyrim Documentation
+feedback_subject_line: Feedback
 
 # used as a contact email for the Feedback link in the top navigation bar
 feedback_email: tomjoht@gmail.com
