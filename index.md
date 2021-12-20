@@ -1,8 +1,7 @@
 ---
 title: "Mythic Mods"
-tags: [sample1, sample2]
+tags: [homepage]
 keywords: keyword1, keyword2, keyword3
-last_updated: Month day, year
 summary: "optional summary here"
 sidebar: main-sidebar
 permalink: index.html
