@@ -35,11 +35,11 @@ Additionally, .NET 5.0 is required for certain mods. The game will not launch if
 * Download and run the [Desktop App x64] installer
 
 
-Skyrim Anniversary Edition: https://store.steampowered.com/app/1746860/The_Elder_Scrolls_V_Skyrim_Anniversary_Upgrade/
-[Nexus Mods](https://www.nexusmods.com/)
-[NVIDIA](https://www.nvidia.com/Download/index.aspx)
-[AMD](https://www.amd.com/en/support)
-[Microsoft Visual C++](https://docs.microsoft.com/en-US/cpp/windows/latest-supported-vc-redist?view=msvc-170)
-[vc_redist.x64.exe](https://aka.ms/vs/17/release/vc_redist.x64.exe)
-[.NET 5.0 Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/5.0/runtime)
-[Desktop App x64](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-5.0.13-windows-x64-installer)
+[Skyrim Anniversary Edition]: https://store.steampowered.com/app/1746860/The_Elder_Scrolls_V_Skyrim_Anniversary_Upgrade/
+[Nexus Mods]: https://www.nexusmods.com/
+[NVIDIA]: https://www.nvidia.com/Download/index.aspx
+[AMD]: https://www.amd.com/en/support
+[Microsoft Visual C++]: https://docs.microsoft.com/en-US/cpp/windows/latest-supported-vc-redist?view=msvc-170
+[vc_redist.x64.exe]: https://aka.ms/vs/17/release/vc_redist.x64.exe
+[.NET 5.0 Runtime]: https://dotnet.microsoft.com/en-us/download/dotnet/5.0/runtime
+[Desktop App x64]: https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-5.0.13-windows-x64-installer
