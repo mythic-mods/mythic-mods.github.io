@@ -17,5 +17,3 @@ MCM menus for Mythic Skyrim have been pre-configured.
 
 There are some settings and optional mods available for the user to customize. Find out more on the Customisation page.
 It is strongly recommend to not change MCM settings to anything other than what is discussed on the Customisation page.
-
-# Copyright 2021 Google LLC
