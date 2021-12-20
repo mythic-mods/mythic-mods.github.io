@@ -16,5 +16,8 @@ entries:
     - title: Requirements
       url: /mythic-skyrim-requirements.html
       output: web
+    - title: Steam Setup
+      url: /mythic-skyrim-steam-setup.html
+      output: web
       
 # Copyright 2021 Google LLC
