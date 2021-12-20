@@ -19,6 +19,6 @@ topnav_dropdowns:
     - title: Modlists
       folderitems:
         - title: Mythic Skyrim
-          url: /p1_landing_page.html
+          url: /mythic-skyrim-landing-page.html
 
 # Copyright 2021 Google LLC
