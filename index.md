@@ -1,5 +1,5 @@
 ---
-title: "Mythic Mods"
+title: "Home"
 tags: [homepage]
 keywords: keyword1, keyword2, keyword3
 summary: "optional summary here"
