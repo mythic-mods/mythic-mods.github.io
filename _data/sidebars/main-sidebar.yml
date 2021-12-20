@@ -9,20 +9,20 @@ entries:
     output: web
     folderitems:
     - title: About Wabbajack
-      url: /p1_landing_page.html
+      url: /wabbajack-about.html
       output: web
     - title: Game Setup
-      url: /p1_landing_page.html
+      url: /wabbajack-about.html
       output: web
     - title: Modlist Installation
-      url: /p1_landing_page.html
+      url: /wabbajack-about.html
       output: web
   
   - title: Modlists
     output: web
     folderitems:
     - title: Mythic Skyrim
-      url: /p1_landing_page.html
+      url: /mythic-skyrim-about.html
       output: web
 
 # Copyright 2021 Google LLC
