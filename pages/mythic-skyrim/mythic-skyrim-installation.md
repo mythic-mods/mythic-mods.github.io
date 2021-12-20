@@ -14,14 +14,14 @@ A top-level folder such as `G:\Wabbajack\` is once again recommended as the inst
 Create a new top-level folder in a location that is not UAC protected and name it `Wabbajack`
 
 Download the [Wabbajack] application directly from the website: 
-* Click the Download button on the home page of the Wabbajack site.
+* Click the `Download` button on the home page of the Wabbajack site.
 * Move the downloaded `Wabbajack.exe` into the `Wabbajack` folder you previously created.
 * Double-click `Wabbajack.exe` to launch the application.
-* When launched, Wabbajack will be automatically be updated to the latest version and downloaded into the same directory.
+* When launched, Wabbajack will be automatically updated to the latest version and downloaded into the same directory.
 
 ## Mythic Skyrim Installation
 You can now install Mythic Skyrim through Wabbajack:
-* Click the Browse Modlists button in the Wabbajack tool.
+* Click the `Browse Modlists` button in the Wabbajack tool.
 * Find Mythic Skyrim in the gallery of mod lists and click the arrow button to download the installation file.
 * In the installation window, you will need to define two folders:
   * Installation Location is where Mythic Skyrim will be installed to. Choose a high-level folder such as `G:\Mythic Skyrim\` that is outside UAC protected folders (Program Files, Documents, etc).
