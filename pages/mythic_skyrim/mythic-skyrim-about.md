@@ -2,8 +2,7 @@
 title: Mythic Skyrim
 summary: "Documentation for the Mythic Skyrim modlist."
 sidebar: main-sidebar
-permalink: mythic_skyrim_about.html
+permalink: mythic-skyrim-about.html
 ---
-Welcome!
 
-{% include links.html %}
+Welcome!
