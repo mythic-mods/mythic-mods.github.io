@@ -22,9 +22,12 @@ entries:
     - title: Start Playing
       url: /mythic-skyrim-start-playing.html
       output: web
-  - title: Getting Started
+  - title: Post-Installation
     output: web
     folderitems:
+    - title: Customizing
+      url: /mythic-skyrim-customizing.html
+      output: web
     - title: Updating
       url: /mythic-skyrim-updating.html
       output: web
