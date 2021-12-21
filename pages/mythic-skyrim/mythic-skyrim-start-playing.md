@@ -24,4 +24,4 @@ In the top right drop-down menu, ensure `Mythic Skyrim` is selected and launch t
 <a href="#" data-toggle="tooltip" data-original-title="{{site.data.glossary.mcm}}">MCM</a> menus for Mythic Skyrim have been pre-configured.
 
 There are some settings and optional mods available for the user to customize. See Customization for more information.
-It is strongly recommend to not change MCM settings to anything other than what is discussed on the Customization page.
+It is strongly recommended to not change MCM settings to anything other than what is discussed on the Customization page.
