@@ -19,11 +19,11 @@ summary: The following are required to install and play Mythic Skyrim.
 
 Mythic Skyrim currently requires ~??GB of free disk space for modlist installation and another ~??GB for the initial downloaded archives.
 
-{% include tip.html content=
-"It is recommended to install Mythic Skyrim on an SSD.
+{% include tip.html content="It is recommended to install Mythic Skyrim on an SSD." %}
+
 The initial installation process will be faster if the downloaded archives are also on an SSD.
 They can be moved to a different drive afterwards as they are not necessary for gameplay, only for updating the list.
-If you delete them, you will have to redownload them if you want to update so it’s recommended to keep them." %}
+If you delete them, you will have to redownload them if you want to update so it’s recommended to keep them.
 
 
 ## Visual C++ Redistributable
