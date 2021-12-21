@@ -22,8 +22,5 @@ entries:
     - title: Start Playing
       url: /mythic-skyrim-start-playing.html
       output: web
-    - title: Updating
-      url: /mythic-skyrim-updating.html
-      output: web
       
 # Copyright 2021 Google LLC
