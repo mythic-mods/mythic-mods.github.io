@@ -17,13 +17,17 @@ summary: The following are required to install and play Mythic Skyrim.
 
 ## Disk Space
 
-Mythic Skyrim currently requires ~??GB of free disk space for modlist installation and another ~??GB for the initial downloaded archives.
+Mythic Skyrim currently requires ~??GB of free disk space for modlist installation (MO2 mods folder) and another ~??GB for the initial downloaded archives (MO2 downloads folder).
 
 {% include tip.html content="It is recommended to install Mythic Skyrim on an SSD." %}
 
-The initial installation process will be faster if the downloaded archives are also on an SSD.
-They can be moved to a different drive afterwards as they are not necessary for gameplay, only for updating the list.
-If you delete them, you will have to redownload them if you want to update so it’s recommended to keep them.
+{% include tip.html content="The initial installation process will be faster if the downloaded archives are also on an SSD." %}
+
+{% include tip.html content="If you need to free up SSD space after installation, the downloaded archives can be moved to a different drive as they are not necessary for gameplay, only for updating the list." %}
+
+{% include warning.html content=
+"If you delete the downloaded archives, you will have to redownload the mods when updating the modlist.
+For this reason, it is recommended to not delete the downloaded archives." %}
 
 
 ## Visual C++ Redistributable
@@ -40,7 +44,7 @@ If you delete them, you will have to redownload them if you want to update so it
 * The application will guide you through the installation process.
 
 
-## Latest GPU Drivers
+## Update GPU Drivers
 
 This is more of a recommendation than a hard requirement, but if you encounter any unexpected performance issues or graphical artifacts it is usually recommended to update your GPU drivers as a first step in troubleshooting. It is highly recommended to update GPU drivers before continuing.
 You can find the latest drivers for your GPU on the manufacturers website ([NVIDIA] or [AMD])
