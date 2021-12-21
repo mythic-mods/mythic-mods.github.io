@@ -17,7 +17,7 @@ Important notes regarding updating the modlist:
 * This means you can reinstall your custom mods after updating the modlist without needing to redownload your custom mods.
 * It is recommended to start a new game after updating.
 
-## How-To Update the Modlist
+## Updating the Modlist
 
 Follow these steps to update the modlist:
 * Consult the changelog before updating the modlist.
