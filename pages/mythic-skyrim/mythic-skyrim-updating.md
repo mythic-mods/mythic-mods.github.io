@@ -7,7 +7,7 @@ folder: mythic-skyrim
 summary: Instructions on updating the Mythic Skyrim modlist.
 ---
 
-{% include warning.html content="**Wabbajack will delete all files that are not part of the Modlist when updating!**" %}
+{% include warning.html content="Wabbajack will delete all files that are not part of the Modlist when updating!" %}
 
 ## Notes on Updating
 
