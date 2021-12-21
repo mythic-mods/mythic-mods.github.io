@@ -6,7 +6,8 @@ permalink: mythic-skyrim-installation.html
 folder: mythic-skyrim
 summary: Instructions on installing Wabbajack and the Mythic Skyrim modlist.
 ---
-Ensure you have followed the steps outlined in the Steam Setup page before proceeding with installation.
+
+{% include important.html content="Ensure you have followed the steps outlined in [Steam Setup] before proceeding with installation." %}
 
 ## Wabbajack Installation
 Wabbajack should be installed to a top-level folder that is not UAC protected in the same way you setup your Steam Library in previous steps.
@@ -44,4 +45,6 @@ You will be prompted when the installation process is complete.
 In the case of a failed installation: restart Wabbajack. You will not lose progress as the tool will pick up where it left of.
 You can find all Wabbajack logs in your Wabbajack installation folder under `\Wabbajack\logs\`.
 
+
 [Wabbajack]: https://www.wabbajack.org/#/
+[Steam Setup]: mythic-skyrim-steam-setup.html
