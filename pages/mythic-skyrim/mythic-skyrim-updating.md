@@ -21,4 +21,7 @@ Important notes regarding updating the modlist:
 
 Follow these steps to update the modlist:
 * Consult the changelog before updating the modlist.
-* Follow the steps outlined in Installation and select the Overwrite Existing Modlist option when promted in Wabbajack.
+* Follow the steps outlined in [Installation] and select the `Overwrite Existing Modlist` option when promted in Wabbajack.
+
+
+[Installation]: mythic-skyrim-installation.html
