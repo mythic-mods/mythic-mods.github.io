@@ -45,7 +45,7 @@ If you delete them, you will have to redownload them if you want to update so it
 This is more of a recommendation than a hard requirement, but if you encounter any unexpected performance issues or graphical artifacts it is usually recommended to update your GPU drivers as a first step in troubleshooting. It is highly recommended to update GPU drivers before continuing.
 You can find the latest drivers for your GPU on the manufacturers website ([NVIDIA] or [AMD])
 
-{% include tip.html content="For Nvidia, install using the custom option. Select "Peform a Clean Install" option to fully clear old files." %}
+{% include tip.html content="For Nvidia, install using the custom option. Select Peform a Clean Install option to fully clear old files." %}
 
 
 [Skyrim Special Edition]: https://store.steampowered.com/app/489830/The_Elder_Scrolls_V_Skyrim_Special_Edition/
