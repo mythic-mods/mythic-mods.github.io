@@ -56,10 +56,8 @@ Once the game has been installed you will need to launch the game through Steam.
 
 {% include warning.html content=
 "You should no longer launch the game through Steam and only launch the game through Mod Organizer 2 to prevent Steam updates." %}
-[UAC]
+
 
 [Requirements]: mythic-skyrim-requirements.html
 [Skyrim Special Edition]: https://store.steampowered.com/app/489830/The_Elder_Scrolls_V_Skyrim_Special_Edition/
 [Skyrim Anniversary Upgrade]: https://store.steampowered.com/app/1746860/The_Elder_Scrolls_V_Skyrim_Anniversary_Upgrade/
-
-[UAC](<a href="#" data-toggle="tooltip" data-original-title="{{site.data.glossary.uac}}">UAC</a>)
