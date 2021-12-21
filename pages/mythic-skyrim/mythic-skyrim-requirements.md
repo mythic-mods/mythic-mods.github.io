@@ -47,8 +47,9 @@ If you need to free up SSD space after installation, the downloaded archives can
 
 ## Update GPU Drivers
 
-This is more of a recommendation than a hard requirement, but if you encounter any unexpected performance issues or graphical artifacts it is usually recommended to update your GPU drivers as a first step in troubleshooting. It is highly recommended to update GPU drivers before continuing.
-You can find the latest drivers for your GPU on the manufacturers website ([NVIDIA] or [AMD])
+This is more of a recommendation than a hard requirement, but if you encounter any unexpected performance issues or graphical artifacts it is usually recommended to update your GPU drivers as a first step in troubleshooting.
+* It is highly recommended to update GPU drivers before continuing.
+* You can find the latest drivers for your GPU on the manufacturers website ([NVIDIA] or [AMD])
 
 {% include tip.html content="For Nvidia, install using the custom option. Select Peform a Clean Install option to fully clear old files." %}
 
