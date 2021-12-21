@@ -10,7 +10,7 @@ summary: Instructions on installing Wabbajack and the Mythic Skyrim modlist.
 {% include important.html content="Ensure you have followed the steps outlined in [Steam Setup] before proceeding with installation." %}
 
 ## Wabbajack Installation
-Wabbajack should be installed to a top-level folder that is not UAC protected in the same way you setup your Steam Library in previous steps.
+Wabbajack should be installed to a top-level folder that is not <a href="#" data-toggle="tooltip" data-original-title="{{site.data.glossary.uac}}">UAC</a> protected in the same way you setup your Steam Library in previous steps.
 A top-level folder such as `G:\Wabbajack\` is once again recommended as the installation directory.
 Create a new top-level folder in a location that is not UAC protected and name it `Wabbajack`
 
