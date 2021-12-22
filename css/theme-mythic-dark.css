@@ -17,11 +17,11 @@ ul#results-container a {
 }
 
 ul#results-container a:hover {
-    color: black;
+    color: white;
 }
 
 #search-demo-container a:hover {
-    color: black;
+    color: white;
 }
 
 #search-input {
