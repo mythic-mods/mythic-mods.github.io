@@ -41,7 +41,7 @@ entries:
       url: /mythic-skyrim-changelog.html
       output: web
     - title: Archives
-      url: /mythic-skyrim-archives.html
+      url: /mythic-skyrim-archive.html
       output: web
       
 # Copyright 2021 Google LLC
