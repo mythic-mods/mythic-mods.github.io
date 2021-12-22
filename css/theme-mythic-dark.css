@@ -7,11 +7,12 @@ body {
 
 /* search bar */
 #search-demo-container ul#results-container {
-    background-color: transparent;
-    border-left: 1px solid #e6cc80;
+    background-color: #3f3f3f;
+    /* border-left: 1px solid #e6cc80; */
 }
 
 ul#results-container a {
+    color: #9d9d9d;
     background-color: transparent;
 }
 
