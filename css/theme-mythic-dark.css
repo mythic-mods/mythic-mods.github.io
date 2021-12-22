@@ -39,7 +39,7 @@ a[data-toggle="tooltip"] {
 
 .navbar-inverse {
     background-color: #252525;
-    border-color: #015CAE;
+    border-color: #e6cc80;
 }
 .navbar-inverse .navbar-nav>li>a, .navbar-inverse .navbar-brand {
     color: white;
@@ -106,7 +106,7 @@ li.sidebarTitle {
   margin-top:20px;
     font-weight:normal;
     font-size:130%;
-    color: #ED1951;
+    color: #e6cc80;
     margin-bottom:10px;
     margin-left: 5px;
 
