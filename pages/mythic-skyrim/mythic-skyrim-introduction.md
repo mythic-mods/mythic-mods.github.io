@@ -7,4 +7,6 @@ folder: mythic-skyrim
 ---
 This is the Mythic Skyrim introduction.
 
-{{site.data.definitions.baseball}}
+Let's play [Baseball]
+
+[Baseball]: {{site.data.definitions.baseball}}
