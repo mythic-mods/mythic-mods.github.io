@@ -52,6 +52,12 @@ h3 {color: #ED1951; }
 h4 {color: #808080; }
 
 
+/* code blocks */
+.note code, .alert code, .warning code, div#toc code, h2 code, h3 code, h4 code {
+    background-color: #3f3f3f;
+    color: inherit;
+}
+
 
 .nav-tabs > li.active > a, .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus {
     background-color: #248ec2;
