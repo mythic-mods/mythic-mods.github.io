@@ -172,3 +172,7 @@ li.sidebarTitle {
     color: #9d9d9d;
 }
 
+
+.bs-callout code {
+    background-color: #3f3f3f;
+}
