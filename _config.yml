@@ -99,7 +99,7 @@ defaults:
 
 # these are defaults used for the frontmatter for these file types
 
-company_name: bob
+MCM: <a href="#" data-toggle="tooltip" data-original-title="{{site.data.glossary.mcm}}">MCM</a>
 
 sidebars:
 - mythic-skyrim-sidebar
