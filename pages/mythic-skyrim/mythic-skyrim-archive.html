@@ -13,8 +13,8 @@ folder: mythic-skyrim
 
 
     <section id="archive">
-        <h3>This year's posts</h3>
-        {%for post in site.posts %}
+        <h3>This year's changes</h3>
+        {%for post in site.pages.mythic-skyrim.changelogs %}
         {% unless post.next %}
         <ul class="this">
             {% else %}
