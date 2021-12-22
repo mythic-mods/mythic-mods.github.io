@@ -29,6 +29,11 @@ ul#results-container a:hover {
 /* end search */
 
 
+div#toc ul {
+    background-color: #3f3f3f;
+    color: white;
+}
+
 
 .summary {
     color: #808080;
