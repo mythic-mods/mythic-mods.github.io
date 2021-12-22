@@ -8,7 +8,7 @@ body {
 /* search bar */
 #search-demo-container ul#results-container {
     background-color: #3f3f3f;
-    /* border-left: 1px solid #e6cc80; */
+    border-left: 1px solid #dedede; */
 }
 
 ul#results-container a {
@@ -167,9 +167,4 @@ li.sidebarTitle {
 /* footer */
 .footer {
     color: #9d9d9d;
-}
-
-
-.bs-callout code {
-    background-color: #3f3f3f;
 }
