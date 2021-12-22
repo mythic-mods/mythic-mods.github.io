@@ -801,10 +801,12 @@ a.accordion-toggle {
     font-style: normal;
 }
 
+/*
 span.red {
     color: red;
     font-family: Monaco, Menlo, Consolas, "Courier New", monospace;
 }
+*/
 
 h3.codeExplanation {
     font-size:18px;
@@ -833,14 +835,14 @@ span.soft {
 .parameter {
     font-family: courier;
     color: red !important;
-    background-color: #f9ff42;
+    background-color: whitesmoke;
 }
 
 .formBoundary {
     border: 1px solid gray;
     padding: 15px;
     margin: 15px 0px;
-    background-color: #f9ff42;
+    background-color: whitesmoke;
 }
 
 @media (max-width: 767px) {
