@@ -153,12 +153,14 @@ li.sidebarTitle {
 
 }
 
+
+/* collapsed navbar */
 .navbar-inverse .navbar-toggle:focus, .navbar-inverse .navbar-toggle:hover {
-    background-color: #fcfc0f;
+    background-color: #3f3f3f;
 }
 
 .navbar-inverse .navbar-toggle {
-    border-color: #bf22b0;
+    border-color: #e6cc80;
 }
 
 
