@@ -38,10 +38,13 @@ ul#results-container a:hover {
 
 /* table of contents */
 div#toc ul {
+    color: white;
     background-color: #3f3f3f;
+    border-color: #e6cc80;
+}
+div#toc >ul::before {
     color: white;
 }
-
 
 /* headers */
 h3 {color: #ED1951; }
