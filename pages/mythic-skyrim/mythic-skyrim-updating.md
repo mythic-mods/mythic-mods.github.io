@@ -7,7 +7,7 @@ folder: mythic-skyrim
 summary: Instructions on updating the Mythic Skyrim modlist.
 ---
 
-{% include warning.html content="Wabbajack will delete all files that are not part of the Modlist when updating!" %}
+{% include warning.html content="Wabbajack will delete all files that are not part of the Modlist when updating." %}
 
 ## Notes on Updating
 
@@ -20,8 +20,9 @@ Important notes regarding updating the modlist:
 ## Updating the Modlist
 
 Follow these steps to update the modlist:
-* Consult the changelog before updating the modlist.
+* Consult the [Changelog] before updating.
 * Follow the steps outlined in [Installation] and select the `Overwrite Existing Modlist` option when promted in Wabbajack.
 
 
+[Changelog]: mythic-skyrim-changelog.html
 [Installation]: mythic-skyrim-installation.html
