@@ -5,8 +5,6 @@ topnav:
   items:
     - title: GitHub
       external_url: https://github.com/mythic-mods
-    - title: News
-      url: /news
 
 #Topnav dropdowns
 topnav_dropdowns:
