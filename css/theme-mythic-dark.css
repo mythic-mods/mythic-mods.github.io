@@ -25,7 +25,8 @@ ul#results-container a:hover {
 }
 
 #search-input {
-    color: black;
+    color: white;
+    background-color: black;
     border-color: #e6cc80;
 }
 
