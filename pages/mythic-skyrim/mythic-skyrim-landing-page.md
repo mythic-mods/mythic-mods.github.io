@@ -6,4 +6,4 @@ permalink: mythic-skyrim-landing-page.html
 folder: mythic-skyrim
 ---
 
-{% include image.html file="mythic-skyrim-book.jpg" %}
+{% include image.html file="mythic-skyrim/wallpapers/mythic-skyrim-book.jpg" %}
