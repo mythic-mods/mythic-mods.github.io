@@ -1,11 +1,11 @@
+/* body */
 body {
     color: white;
     background-color: #252525;
 }
 
 
-
-/* search area */
+/* search bar */
 #search-demo-container ul#results-container {
     background-color: transparent;
     border-left: 1px solid #e6cc80;
@@ -26,15 +26,9 @@ ul#results-container a:hover {
 #search-input {
     border-color: #e6cc80;
 }
-/* end search */
 
 
-div#toc ul {
-    background-color: #3f3f3f;
-    color: white;
-}
-
-
+/* summary */
 .summary {
     color: #808080;
     border-left: 5px solid #ED1951;
@@ -42,8 +36,18 @@ div#toc ul {
 }
 
 
+/* table of contents */
+div#toc ul {
+    background-color: #3f3f3f;
+    color: white;
+}
+
+
+/* headers */
 h3 {color: #ED1951; }
 h4 {color: #808080; }
+
+
 
 .nav-tabs > li.active > a, .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus {
     background-color: #248ec2;
