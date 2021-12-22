@@ -34,5 +34,7 @@ entries:
     - title: Uninstalling
       url: /mythic-skyrim-uninstalling.html
       output: web
+    - title: News
+      url: /mythic-skyrim-changelog
       
 # Copyright 2021 Google LLC
