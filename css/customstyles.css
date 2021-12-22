@@ -833,13 +833,14 @@ span.soft {
 .parameter {
     font-family: courier;
     color: red !important;
+    background-color: #f9ff42;
 }
 
 .formBoundary {
     border: 1px solid gray;
     padding: 15px;
     margin: 15px 0px;
-    background-color: whitesmoke;
+    background-color: #f9ff42;
 }
 
 @media (max-width: 767px) {
