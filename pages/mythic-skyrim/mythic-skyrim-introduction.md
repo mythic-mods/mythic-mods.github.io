@@ -7,6 +7,5 @@ folder: mythic-skyrim
 ---
 This is the Mythic Skyrim introduction.
 
-Let's play [Baseball]
+Let's play <a href="#" data-toggle="tooltip" data-original-title="{{site.data.definitions.baseball}}">baseball</a>
 
-[Baseball]: {{site.data.definitions.baseball}}
