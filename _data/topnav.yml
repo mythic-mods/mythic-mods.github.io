@@ -14,9 +14,12 @@ topnav_dropdowns:
       folderitems:
         - title: Wabbajack
           external_url: https://www.wabbajack.org/#/
+        - title: Nexus Mods
+          external_url: https://www.nexusmods.com/
     - title: Modlists
       folderitems:
         - title: Mythic Skyrim
           url: /mythic-skyrim-landing-page.html
+
 
 # Copyright 2021 Google LLC
