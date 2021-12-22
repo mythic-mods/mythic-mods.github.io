@@ -151,3 +151,9 @@ li.sidebarTitle {
 .navbar-inverse .navbar-toggle {
     border-color: #bf22b0;
 }
+
+
+/* footer */
+.footerMeta {
+    background-color: #e6cc80;
+}
