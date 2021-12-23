@@ -5,6 +5,12 @@ body {
 }
 
 
+/* dropdown */
+.navbar-nav>li>.dropdown-menu {
+    background-color: black;
+}
+
+
 /* search bar */
 #search-demo-container ul#results-container {
     background-color: #3f3f3f;
