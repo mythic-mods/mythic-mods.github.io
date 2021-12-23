@@ -5,6 +5,10 @@ body {
 h1 { font-family: 'mrseavessmallcapsregular', Arial, sans-serif; }
 h2 { font-family: 'mrseavessmallcapsregular', Arial, sans-serif; }
 
+code, kbd, pre, samp {
+    font-family: Consolas,Menlo,Monaco,"Courier New",monospace;
+}
+
 .bs-callout {
     padding: 20px;
     margin: 20px 0;
