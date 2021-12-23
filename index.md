@@ -9,7 +9,7 @@ permalink: index.html
 
 <div class="image">
 
-      <img src="https://github.com/mythic-mods/mythic-mods.github.io/blob/main/images/mythic-skyrim/wallpapers/mythic-skyrim-minimal.jpg" alt="" />
+      <img src="images/mythic-skyrim/wallpapers/mythic-skyrim-minimal.jpg" alt="" />
 	
 </div>
 
