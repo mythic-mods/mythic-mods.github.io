@@ -87,8 +87,12 @@ a {
 .nav>li>a:focus, .nav>li>a:hover {
     text-decoration: none;
     background-color: #3f3f3f;
-    border: 1px solid #e6cc80;
-    border-color: #e6cc80;
+    /* border: 1px solid #e6cc80; */
+    border-color: white;
+}
+
+.navbar-inverse .navbar-nav > li > a {
+    background-color: #252525;
 }
 
 /* sidebar subtab */
