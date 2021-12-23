@@ -1,9 +1,9 @@
 ---
-title: "News"
-tagName: news
+title: "Skyrim"
+tagName: skyrim
 search: exclude
-permalink: tag_news.html
-sidebar: mydoc_sidebar
+permalink: tag_skyrim.html
+sidebar: mythic-skyrim-sidebar
 folder: tags
 ---
 {% include taglogic.html %}
