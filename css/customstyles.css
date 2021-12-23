@@ -242,13 +242,14 @@ ul#results-container a:hover {
 }
 #search-input {
     padding: .5em;
-    margin-left:20px;
     width:20em;
     font-size: 0.8em;
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     box-sizing: border-box;
+    margin-left:20px;
     margin-top:10px;
+    margin-bottom:10px;
 }
 /* end search */
 
