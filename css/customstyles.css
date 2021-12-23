@@ -2,17 +2,8 @@ body {
     font-size:15px;
 }
 
-h1 {
-font-family: 'mrseavessmallcapsregular';
-font-weight:normal;
-font-style:normal;
-}
-
-h2 {
-font-family: 'mrseavessmallcapsregular';
-font-weight:normal;
-font-style:normal;
-}
+h1 { font-family: 'mrseavessmallcapsregular', Arial, sans-serif; }
+h2 { font-family: 'mrseavessmallcapsregular', Arial, sans-serif; }
 
 .bs-callout {
     padding: 20px;
