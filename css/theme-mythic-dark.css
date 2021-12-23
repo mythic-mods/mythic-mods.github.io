@@ -27,7 +27,7 @@ ul#results-container a:hover {
 #search-input {
     color: white;
     background-color: black;
-    border-color: #e6cc80;
+    border-color: white;
 }
 
 
@@ -85,9 +85,7 @@ a {
 }
 
 .nav>li>a:focus, .nav>li>a:hover {
-    text-decoration: none;
     background-color: #3f3f3f;
-    /* border: 1px solid #e6cc80; */
     border-color: white;
 }
 
@@ -198,10 +196,11 @@ li.sidebarTitle {
 /* collapsed navbar */
 .navbar-inverse .navbar-toggle:focus, .navbar-inverse .navbar-toggle:hover {
     background-color: #3f3f3f;
+    border-color: #e6cc80;
 }
 
 .navbar-inverse .navbar-toggle {
-    border-color: #e6cc80;
+    border-color: white;
 }
 
 
