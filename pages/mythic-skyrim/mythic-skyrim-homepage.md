@@ -2,7 +2,7 @@
 title: Mythic Skyrim
 sidebar: mythic-skyrim-sidebar
 toc: false
-permalink: mythic-skyrim-landing-page.html
+permalink: mythic-skyrim-homepage.html
 folder: mythic-skyrim
 ---
 
