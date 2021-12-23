@@ -34,14 +34,11 @@ entries:
     - title: Uninstalling
       url: /mythic-skyrim-uninstalling.html
       output: web
-  - title: Changelogs
+  - title: Development
     output: web
     folderitems:
     - title: Changelog
       url: /mythic-skyrim-changelog.html
-      output: web
-    - title: Archives
-      url: /mythic-skyrim-archive.html
       output: web
       
 # Copyright 2021 Google LLC
