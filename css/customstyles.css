@@ -373,6 +373,7 @@ background-color: #347DBE;
     font-size: 14px;
     line-height: 20px;
     padding: 4px 10px;
+    border: 1px solid white;
 }
 
 ul#mysidebar {
