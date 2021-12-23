@@ -8,6 +8,7 @@ permalink: index.html
 ---
 
 _Choose a game to get started:_
+
 ---
 
 [![mythicmods.org](images/mythic-skyrim/wallpapers/mythic-skyrim-minimal.jpg)](mythic-skyrim-homepage.html)
