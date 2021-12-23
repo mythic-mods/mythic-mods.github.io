@@ -84,6 +84,11 @@ a {
     background-color: black;
 }
 
+.nav>li>a:focus, .nav>li>a:hover {
+    text-decoration: none;
+    background-color: none;
+}
+
 /* sidebar subtab */
 .nav ul li a {
     background-color: black;
