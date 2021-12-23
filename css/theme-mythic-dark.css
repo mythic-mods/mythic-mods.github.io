@@ -84,13 +84,19 @@ a {
     background-color: black;
 }
 
+/* sidebar subtab */
+.nav ul li a {
+    background-color: black;
+}
+
 .nav-tabs > li.active > a, .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus {
     color: white;
     background-color: #248ec2;
 }
 
 .nav > li.active > a {
-    background-color: #252525;
+    background-color: #3f3f3f;
+    border: 1px solid #e6cc80;
     border-color: #e6cc80;
 }
 
