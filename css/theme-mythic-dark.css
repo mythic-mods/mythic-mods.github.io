@@ -65,13 +65,12 @@ code {
 
 
 /* link highlighting */
-/* #337ab7 */
 a {
     color: #0070dd;
 }
 
 .anchorjs-link:hover {
-    color: #216f9b;
+    color: #337ab7;
 }
 
 
