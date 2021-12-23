@@ -3,8 +3,6 @@
 topnav:
 - title: Topnav
   items:
-    - title: GitHub
-      external_url: https://github.com/mythic-mods
 
 #Topnav dropdowns
 topnav_dropdowns:
@@ -12,10 +10,12 @@ topnav_dropdowns:
   folders:
     - title: Resources
       folderitems:
-        - title: Wabbajack
-          external_url: https://www.wabbajack.org/#/
+        - title: GitHub
+          external_url: https://github.com/mythic-mods
         - title: Nexus Mods
           external_url: https://www.nexusmods.com/
+        - title: Wabbajack
+          external_url: https://www.wabbajack.org/#/
     - title: Modlists
       folderitems:
         - title: Mythic Skyrim
