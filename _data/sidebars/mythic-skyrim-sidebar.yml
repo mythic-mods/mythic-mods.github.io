@@ -37,6 +37,9 @@ entries:
   - title: Development
     output: web
     folderitems:
+    - title: Roadmap
+      url: /mythic-skyrim-roadmap.html
+      output: web
     - title: Changelog
       url: /mythic-skyrim-changelog.html
       output: web
