@@ -3,6 +3,7 @@ title: "Mythic Mods"
 keywords: homepage
 tags: [getting_started]
 hide_sidebar: true
+toc: false
 permalink: index.html
 ---
 
@@ -19,8 +20,8 @@ permalink: index.html
 				</span>
 			</div>
 		 	<div class="panel-body">
-				<h4>Service One</h4>
-			  	<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+				<h4>Mythic Skyrim</h4>
+			  	<p>A modlist for TESV: Skyrim Anniversary Edition.</p>
 			  	<a href="#" class="btn btn-primary">Learn More</a>
 		  	</div>
 	  	</div>
