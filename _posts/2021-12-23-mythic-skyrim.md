@@ -1,7 +1,6 @@
 ---
 title:  "Mythic Skyrim (0.0.1-alpha)"
-version: 0.0.1-alpha
-published: true
+sidebar: mythic-skyrim-sidebar
 permalink: 2021-12-23-mythic-skyrim.html
 summary: "Initial upload for testing."
 tags: [skyrim]
