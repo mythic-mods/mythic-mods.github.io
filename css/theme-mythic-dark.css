@@ -64,6 +64,17 @@ code {
 }
 
 
+/* link highlighting */
+/* #337ab7 */
+a {
+    color: #0070dd;
+}
+
+.anchorjs-link:hover {
+    color: #216f9b;
+}
+
+
 .nav-tabs > li.active > a, .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus {
     background-color: #248ec2;
     color: white;
@@ -139,9 +150,6 @@ a.navbar-brand:hover {
     border-color: #e6cc80;
 }
 
-.anchorjs-link:hover {
-    color: #216f9b;
-}
 
 div.sidebarTitle {
     color: #fcfc0f;
