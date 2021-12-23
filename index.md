@@ -7,6 +7,12 @@ toc: false
 permalink: index.html
 ---
 
+<div class="image">
+
+      <img src="https://github.com/mythic-mods/mythic-mods.github.io/blob/main/images/mythic-skyrim/wallpapers/mythic-skyrim-minimal.jpg" alt="" />
+	
+</div>
+
 <div class="row">
 	<div class="col-lg-12">
 		<h2 class="page-header">Modlists</h2>
