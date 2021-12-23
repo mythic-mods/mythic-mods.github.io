@@ -75,6 +75,10 @@ a {
 
 
 /* sidebar */
+.nav a {
+    color: white;
+}
+
 .nav li a {
     color: white;
     background-color: black;
