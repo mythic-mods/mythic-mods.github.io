@@ -7,7 +7,7 @@ folder: mythic-skyrim
 summary: Release management plan.
 ---
 
-Each phase will not be a final product, but rather a working base to continue development on.
+Each phase is not meant be a final product, but rather a comprehensive working base to continue development on.
 
 
 ## Phase 1 - Framework (Done)
