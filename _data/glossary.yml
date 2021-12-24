@@ -1,5 +1,6 @@
 mcm: "Mod Configuration Menus allow the user to customize certain mod settings through a user interface added by the mod SkyUI."
 stock_game_folder: "A Stock Game Folder system uses a separate instance of the Skyrim game installation encapsulated within the Mod Organizer 2 directory, thereby keeping the original game directory in an unmodded (or stock) condition."
 uac: "User Account Control (UAC) can block the automatic installation of apps and will cause issues with some modding tools such as Mod Organizer 2 and Wabbajack."
+cathedral: "In the Cathedral view, we consider modding a joint effort. We share our work with each other to foster further mod development, to keep the community alive, and to contribute in the construction of mods of monumental scale. Individually, our contributions may be small and not worth doing for themselves, but by each person contributing something, we construct something larger and more worthwhile than any of us could do on our own."
 
 # Copyright 2021 Google LLC
