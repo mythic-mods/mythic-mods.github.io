@@ -4,9 +4,10 @@ sidebar: mythic-skyrim-sidebar
 toc: true
 permalink: mythic-skyrim-roadmap.html
 folder: mythic-skyrim
-summary: Release management plan.
+summary: The road to version 1.0.0
 ---
 
+Release management plan.
 Each phase is not meant be a final product, but rather a comprehensive working base to continue development on.
 
 
