@@ -23,14 +23,14 @@ Each phase will not be a final product, but rather a working base to continue de
 - Textures
 
 
-## Phase 2 - Lighting
+## Phase 3 - Lighting
 - Relighting Skyrim
 - LUX
 - Cathedral Weathers and Seasons
 - ENB
 
 
-## Phase 3 - Sound
+## Phase 4 - Sound
 - Audio Overhaul for Skyrim SE
 - Immersive Sounds Compendium
 - Audio Overhaul Immersive Sounds Integration
@@ -38,7 +38,7 @@ Each phase will not be a final product, but rather a working base to continue de
 - ISC WACCF Patch
 
 
-## Phase 4 - Animation
+## Phase 5 - Animation
 - Nemesis
 - Dynamic Animation Replacer
 - EVG Conditional Idles
@@ -46,7 +46,7 @@ Each phase will not be a final product, but rather a working base to continue de
 - Lowered Hands
 
 
-## Phase 5 - NPCs
+## Phase 6 - NPCs
 Base
 - KS Hairdos - SMP HDT Physics*
 - High Poly NPC Overhaul
@@ -75,11 +75,11 @@ Optionals
 - Bijiin Family - Salt and Wind Textures SE
 
 
-## Phase 6 - Characters
+## Phase 7 - Characters
 Custom body and outfit meshes
 
 
-## Phase 7 - Gameplay
+## Phase 8 - Gameplay
 Combat
 - Combat Gameplay Overhaul
 - Archery Gameplay Overhaul
