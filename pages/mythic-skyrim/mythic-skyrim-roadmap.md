@@ -11,11 +11,31 @@ Each phase is not meant be a final product, but rather a comprehensive working b
 
 
 ## Phase 1 - Framework (Done)
-- Tools
-- Cleaned Files
+Tools
+- Mod Organizer 2
+- SSEEdit
+- NifScope
+- BSA Extractor
+- BodySlide
+- LOOT
+
+Cleaned Files
+- Vanilla
+- Creation Club
+
+Extensions
 - SKSE
-- Bugfixes
-- Interface
+- XPMSE
+- Nemesis
+
+Bugfixes
+- USSEP
+- Engine Fixes
+- Scrambled Bugs
+
+Interface
+- SkyUI
+- Better Dialogue Controls
 
 
 ## Phase 2 - Visual Overhaul (WIP)
@@ -44,6 +64,8 @@ Each phase is not meant be a final product, but rather a comprehensive working b
 - EVG Conditional Idles
 - EVG Animation Variance
 - Lowered Hands
+- zxlice hitStop - Script Free
+- Flinching - Script Free Edition
 
 
 ## Phase 6 - NPCs
@@ -83,6 +105,4 @@ Custom body and outfit meshes
 Combat
 - Combat Gameplay Overhaul
 - Archery Gameplay Overhaul
-- zxlice hitStop - Script Free
-- Flinching - Script Free Edition
 
