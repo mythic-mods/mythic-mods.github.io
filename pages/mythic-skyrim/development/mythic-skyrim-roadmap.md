@@ -109,3 +109,10 @@ Each phase is not meant be a final product, but rather a comprehensive working b
 - [Combat Gameplay Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/33767)
 - [Archery Gameplay Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/24296)
 
+### Stealth
+- [Realistic AI Detection SE](https://www.nexusmods.com/skyrimspecialedition/mods/2345)
+
+
+## Phase 8 - Integration
+- Patches
+
