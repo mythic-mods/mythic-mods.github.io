@@ -45,7 +45,6 @@ Each phase is not meant be a final product, but rather a comprehensive working b
 
 
 ## Phase 3 - Lighting
-- Relighting Skyrim]()
 - [LUX](https://www.nexusmods.com/skyrimspecialedition/mods/43158?tab=files)
 - [Lux Orbis](https://www.nexusmods.com/skyrimspecialedition/mods/56095)
 - [Cathedral Weathers and Seasons](https://www.nexusmods.com/skyrimspecialedition/mods/24791)
