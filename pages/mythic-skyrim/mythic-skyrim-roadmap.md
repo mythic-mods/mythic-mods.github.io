@@ -9,6 +9,7 @@ summary: Release management plan.
 
 Each phase will not be a final product, but rather a working base to continue development on.
 
+
 ## Phase 1 - Framework (Done)
 - Tools
 - Cleaned Files
@@ -16,15 +17,18 @@ Each phase will not be a final product, but rather a working base to continue de
 - Bugfixes
 - Interface
 
+
 ## Phase 2 - Visual Overhaul (WIP)
 - Meshes
 - Textures
+
 
 ## Phase 2 - Lighting
 - Relighting Skyrim
 - LUX
 - Cathedral Weathers and Seasons
 - ENB
+
 
 ## Phase 3 - Sound
 - Audio Overhaul for Skyrim SE
@@ -33,6 +37,7 @@ Each phase will not be a final product, but rather a working base to continue de
 - ISC Enhanced Blood Textures Patch
 - ISC WACCF Patch
 
+
 ## Phase 4 - Animation
 - Nemesis
 - Dynamic Animation Replacer
@@ -40,10 +45,12 @@ Each phase will not be a final product, but rather a working base to continue de
 - EVG Animation Variance
 - Lowered Hands
 
+
 ## Phase 5 - NPCs
 Base
 - KS Hairdos - SMP HDT Physics*
 - High Poly NPC Overhaul
+
 Females
 - Pandorable’s NPCs
 - Pandorable’s NPCs - Dawnguard
@@ -52,20 +59,25 @@ Females
 - Freya Graymane -  Olfina Replacer
 - Bijin AIO - Hair Physics Patch*
 - Bijiin Fixes
+
 Males
 - Pandorable’s NPCs - Males
 - Pandorable’s NPCs - Males 2
 - Pride of Skyrim - AIO Male Overhaul
+
 Children
 - RS Children Overhaul
 - Realistic RS Children Overhaul
+
 Optionals
 - No Makeup Facetint on Vanilla NPCs
 - Pandorable’s NPCs - Salt and Wind Textures
 - Bijiin Family - Salt and Wind Textures SE
 
+
 ## Phase 6 - Characters
 Custom body and outfit meshes
+
 
 ## Phase 7 - Gameplay
 Combat
