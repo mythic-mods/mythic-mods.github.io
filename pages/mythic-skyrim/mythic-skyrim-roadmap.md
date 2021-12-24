@@ -24,18 +24,18 @@ Each phase is not meant be a final product, but rather a comprehensive working b
 - Creation Club
 
 ### Extensions
-- SKSEv
-- XPMSE]()
+- [SKSE](https://skse.silverlock.org/)
+- [XPMSE](https://www.nexusmods.com/skyrimspecialedition/mods/1988)
 - [Nemesis](https://www.nexusmods.com/skyrimspecialedition/mods/33746)
 
 ### Bugfixes
-- USSEP]()
-- Engine Fixes]()
-- Scrambled Bugs]()
+- [USSEP](https://www.nexusmods.com/skyrimspecialedition/mods/266)
+- [SSE Engine Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/17230)
+- [Scrambled Bugs](https://www.nexusmods.com/skyrimspecialedition/mods/43532)
 
 ### Interface
-- SkyUI]()
-- Better Dialogue Controls]()
+- [SkyUI](https://www.nexusmods.com/skyrimspecialedition/mods/12604)
+- [Better Dialogue Controls](https://www.nexusmods.com/skyrimspecialedition/mods/1429)
 
 
 ## Phase 2 - Visual Overhaul (WIP)
@@ -45,17 +45,25 @@ Each phase is not meant be a final product, but rather a comprehensive working b
 
 ## Phase 3 - Lighting
 - Relighting Skyrim]()
-- LUX]()
-- Cathedral Weathers and Seasons]()
-- ENB]()
+- [LUX](https://www.nexusmods.com/skyrimspecialedition/mods/43158?tab=files)
+- [Lux Orbis](https://www.nexusmods.com/skyrimspecialedition/mods/56095)
+- [Cathedral Weathers and Seasons](https://www.nexusmods.com/skyrimspecialedition/mods/24791)
+- [Cathedral Weathers Unofficial Update](https://www.nexusmods.com/skyrimspecialedition/mods/24791?tab=files)
+- [Lux - Rudy's Cathedral Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/24791)
+- [Rudy ENB SE for Cathedral Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/39113?tab=files)
 
 
 ## Phase 4 - Sound
+- [Unofficial High Definition Audio Project](https://www.nexusmods.com/skyrimspecialedition/mods/18115)
+- [Lucidity Sound FX SSE](https://www.nexusmods.com/skyrimspecialedition/mods/1841/)
 - [Audio Overhaul for Skyrim SE](https://www.nexusmods.com/skyrimspecialedition/mods/12466)
 - [Immersive Sounds Compendium](https://www.nexusmods.com/skyrimspecialedition/mods/523/)
-- [Audio Overhaul Immersive Sounds Integration](https://www.nexusmods.com/skyrimspecialedition/mods/36761)
 - [ISC Enhanced Blood Textures Patch](https://www.nexusmods.com/skyrimspecialedition/mods/2951/?tab=files)
 - [ISC WACCF Patch](https://www.nexusmods.com/skyrimspecialedition/mods/2951/?tab=files)
+- [Audio Overhaul Immersive Sounds Integration](https://www.nexusmods.com/skyrimspecialedition/mods/36761)
+- [Sounds of Skyrim Complete SE](https://www.nexusmods.com/skyrimspecialedition/mods/8286?tab=files)
+- [Cathedral Weathers - Sounds of Skyrim and Audio Overhaul for Skyrim SE Integration](https://www.nexusmods.com/skyrimspecialedition/mods/58071)
+- [True 3D Sound for Headphones](https://www.nexusmods.com/skyrimspecialedition/mods/1897/)
 
 
 ## Phase 5 - Animation
