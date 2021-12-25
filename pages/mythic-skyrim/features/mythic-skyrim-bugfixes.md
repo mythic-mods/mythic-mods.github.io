@@ -26,7 +26,7 @@ It is important to note that USSEP does not make any fixes that would require SK
   
 <summary>Weapons Armor Clothing and Clutter Fixes</summary>
 <br>
-This is how you dropdown.
+This is a test.
   
 </details>
 
