@@ -565,10 +565,6 @@ i.border {
     background-color: whitesmoke;
 }
 
-a[data-toggle] {
-    color: #248EC2;
-}
-
 .summary {
     font-size:120%;
     color: #808080;
