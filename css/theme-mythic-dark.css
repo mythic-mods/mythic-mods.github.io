@@ -215,6 +215,14 @@ li.sidebarTitle {
 }
 
 
+/* data tables */
+table > thead > tr > td,
+table > tbody > tr > td,
+table > tfoot > tr > td {
+    background: #252525;
+}
+
+
 /* separator */
 hr.shaded {
     background: #e6cc80;
