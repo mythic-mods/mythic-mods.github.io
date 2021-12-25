@@ -8,13 +8,16 @@ folder: mythic-skyrim
 datatable: true
 ---
 
+Click this link to view the updated and complete [USSEP Changelog].
 
+You can search to see if a particular bug from the vanilla game not addressed by USSEP has been addressed by another mod in the search bar below.
 
-You can search to see if a particular bug from the vanilla game has been addressed in the search bar below.
+The purpose of this table is to ensure there are no redundancies or conflicts in included vanilla bugfixes, without needing to crosss-reference many mod page descriptions.
+
 
 <div class="datatable-begin"></div>
 
-Name    						        | Mod               | Description
+Name    						                    | Mod               | Description
 --------------------------------------- | ----------------- | -----------
 Actor Value Percentage	                | Scrambled Bugs    | Fixes incorrect values being displayed in the HUD for player and NPC actor values (health, stamina, etc.) due to the target having any temporary buffs or debuffs to the relevant actor value.
 Apply Spell Perk Entry Points: Arrows   | Scrambled Bugs    | Fixes the Bullseye perk from incorrectly applying
@@ -29,3 +32,9 @@ Training Menu Text                      | Scrambled Bugs    | Fixes the cost of 
 Weapon Charge                           | Scrambled Bugs    | Fixes the charge of equipped enchanted weapons only being restored to the charge they were when last equipped or recharged.
 
 <div class="datatable-end"></div>
+
+
+
+
+
+[USSEP Changelog]: (https://www.afkmods.com/Unofficial%20Skyrim%20Special%20Edition%20Patch%20Version%20History.html)
