@@ -25,7 +25,7 @@ You can search to see if a particular bug from the vanilla game not addressed by
 
 The purpose of this table is to ensure there are no redundancies or conflicts in included vanilla bugfixes, without needing to cross-reference many mod page descriptions.
 
-
+----
 <div class="datatable-begin"></div>
 
 Name    						                    | Mod                        | Description
