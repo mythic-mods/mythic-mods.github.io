@@ -224,11 +224,25 @@ table > tfoot > tr > td {
 
 
 /* panels */
+.panel-default>.panel-heading {
+    color: #333;
+    background-color: #252525;
+    border-color: #ddd;
+}
+
 h4.panel-title {
     font-size: 14px;
     font-weight: normal;
     color: #ffffff;
     background-color: #252525;
+}
+
+.list-group-item {
+    padding: 10px 15px;
+    margin-bottom: -1px;
+    color: #ffffff;
+    background-color: #252525;
+    border: 1px solid #ddd;
 }
 
 
