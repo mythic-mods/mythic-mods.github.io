@@ -10,11 +10,11 @@ datatable: true
 
 <div class="datatable-begin"></div>
 
-Food    | Description                           | Category | Sample type
-------- | ------------------------------------- | -------- | -----------
-Apples  | A small, somewhat round ...           | Fruit    | Fuji
-Bananas | A long and curved, often-yellow ...   | Fruit    | Snow
-Kiwis   | A small, hairy-skinned sweet ...      | Fruit    | Golden
-Oranges | A spherical, orange-colored sweet ... | Fruit    | Navel
+Name    						| Value		| Default | Description
+------------------------------- | --------- | ------- | -----------
+Actor Value Percentage			| Enabled	| Enabled | Temporary actor value modifiers are not accounted for when calculating the percentage of an actor value.
+Actor Value Percentage			| Enabled	| Enabled | Temporary actor value modifiers are not accounted for when calculating the percentage of an actor value.
+Actor Value Percentage			| Enabled	| Enabled | Temporary actor value modifiers are not accounted for when calculating the percentage of an actor value.
+Actor Value Percentage			| Enabled	| Enabled | Temporary actor value modifiers are not accounted for when calculating the percentage of an actor value.
 
 <div class="datatable-end"></div>
