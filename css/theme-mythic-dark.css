@@ -233,6 +233,7 @@ table > tfoot > tr > td {
 h4.panel-title {
     font-size: 14px;
     font-weight: normal;
+    font-style: normal;
     color: #ffffff;
     background-color: #252525;
 }
