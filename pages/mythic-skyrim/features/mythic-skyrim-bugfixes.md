@@ -8,11 +8,14 @@ folder: mythic-skyrim
 datatable: true
 ---
 
-## USSEP
-[Unofficial Skyrim Creation Club Content Patches]
-This is a bundle of patches to fix the bugs in the Skyrim Creation Club content as well as resolve conflicts between Creation Club mods and the Unofficial Skyrim Special Edition Patch (USSEP).
+## Unofficial Skyrim Special Edition Patch
+The Unofficial Skyrim Special Edition Patch (USSEP) fixes hundreds of gameplay, quest, NPC, object, item, text and placement bugs with the goal to eventually fix every bug with Skyrim Special Edition not officially resolved by the developers to the limits of the Creation Kit and community-developed tools.
 
 Click this link to view the updated and complete [USSEP Changelog].
+
+[Unofficial Skyrim Creation Club Content Patches] is a bundle of patches to fix the bugs in the Skyrim Creation Club content as well as resolve conflicts between Creation Club mods and the Unofficial Skyrim Special Edition Patch (USSEP).
+
+Care was taken to ensure other mods integrated into the modlist remained USSEP compatible.
 
 
 ## SKSE Required Fixes
@@ -20,7 +23,7 @@ It is important to note that USSEP does not make any fixes that would require SK
 
 You can search to see if a particular bug from the vanilla game not addressed by USSEP has been addressed by another mod in the search bar below.
 
-The purpose of this table is to ensure there are no redundancies or conflicts in included vanilla bugfixes, without needing to crosss-reference many mod page descriptions.
+The purpose of this table is to ensure there are no redundancies or conflicts in included vanilla bugfixes, without needing to cross-reference many mod page descriptions.
 
 
 <div class="datatable-begin"></div>
@@ -61,7 +64,6 @@ UnequipAllCrash                         | SSE Engine Fixes           | Fixes a c
 VerticalLookSensitivity                 | SSE Engine Fixes           | Makes vertical look sensitivity not tied to framerate.
 UnequipAllCrash                         | SSE Engine Fixes           | Fixes a crash when invoking "Actor.UnequipAll" on an actor without an AI process.
 WeaponBlockScaling                      | SSE Engine Fixes           | Fixes weapon blocking so it correctly scales off of the blocking actor's weapon.
-
 
 <div class="datatable-end"></div>
 
