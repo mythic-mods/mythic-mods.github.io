@@ -22,6 +22,12 @@ entries:
     - title: Start Playing
       url: /mythic-skyrim-start-playing.html
       output: web
+  - title: Features
+    output: web
+    folderitems:
+    - title: Bugfixes
+      url: /mythic-skyrim-bugfixes.html
+      output: web
   - title: Post-Installation
     output: web
     folderitems:
