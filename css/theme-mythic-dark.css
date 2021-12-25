@@ -223,6 +223,15 @@ table > tfoot > tr > td {
 }
 
 
+/* panels */
+h4.panel-title {
+    font-size: 14px;
+    font-weight: normal;
+    color: #ffffff;
+    background-color: #252525;
+}
+
+
 /* separator */
 hr.shaded {
     background: #e6cc80;
