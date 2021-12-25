@@ -8,7 +8,7 @@ summary: The road to version 1.0.0
 ---
 
 Release management plan.
-Each phase is not meant be a final product, but rather a comprehensive working base to continue development on.
+Each phase is not meant to be a final product, but rather a comprehensive working base to continue development on.
 
 
 ## Phase 1 - Framework (Done)
@@ -37,6 +37,7 @@ Each phase is not meant be a final product, but rather a comprehensive working b
 ### Interface
 - [SkyUI](https://www.nexusmods.com/skyrimspecialedition/mods/12604)
 - [Better Dialogue Controls](https://www.nexusmods.com/skyrimspecialedition/mods/1429)
+- [Better MessageBox Controls](https://www.nexusmods.com/skyrimspecialedition/mods/1428)
 
 
 ## Phase 2 - Visual Overhaul (WIP)
@@ -114,5 +115,13 @@ Each phase is not meant be a final product, but rather a comprehensive working b
 
 
 ## Phase 8 - Integration
+- Balance
 - Patches
 
+
+## Phase 9 - New Assets (Post-release)
+Integrate and balance new assets (equipment, monsters, locations, etc.)
+- Wyrmstooth
+- Falskaar
+- Immersive Armors
+- Immersive Creatures
