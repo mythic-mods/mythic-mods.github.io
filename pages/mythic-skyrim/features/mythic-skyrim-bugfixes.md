@@ -10,15 +10,11 @@ datatable: true
 
 
 ## USSEP
-The Unofficial Skyrim Special Edition Patch (USSEP) fixes hundreds of gameplay, quest, NPC, object, item, text and placement bugs with the goal to eventually fix every bug with Skyrim Special Edition not officially resolved by the developers to the limits of the Creation Kit and community-developed tools.
-
-Click this link to view the updated and complete [USSEP Changelog].
+[Unofficial Skyrim Special Edition Patch] (USSEP) fixes hundreds of gameplay, quest, NPC, object, item, text and placement bugs with the goal to eventually fix every bug with Skyrim Special Edition not officially resolved by the developers to the limits of the Creation Kit and community-developed tools. Click this link to view the updated and complete [USSEP Changelog].
 
 [Unofficial Skyrim Creation Club Content Patches] (USCCCP) is a bundle of patches to fix the bugs in the Skyrim Creation Club content as well as resolve conflicts between Creation Club mods and the Unofficial Skyrim Special Edition Patch (USSEP).
 
-Mythic Skyrim integrates and supports all Creation Club content.
-
-Care was taken to ensure other mods integrated into the modlist remained USSEP compatible.
+Mythic Skyrim integrates and supports all Creation Club content. Care was taken to ensure other mods integrated into the modlist remained USSEP compatible.
 
 It is important to note that USSEP does not make any fixes that would require SKSE. For fixes that require SKSE, a collection of mods are listed below.
 
@@ -87,6 +83,6 @@ EnableAchievementsWIthMods              | SSE Engine Fixes           | Enables a
 
 
 
-
+[Unofficial Skyrim Special Edition Patch]: (https://www.nexusmods.com/skyrimspecialedition/mods/266)
 [USSEP Changelog]: (https://www.afkmods.com/Unofficial%20Skyrim%20Special%20Edition%20Patch%20Version%20History.html)
 [Unofficial Skyrim Creation Club Content Patches]: (https://www.nexusmods.com/skyrimspecialedition/mods/18975)
