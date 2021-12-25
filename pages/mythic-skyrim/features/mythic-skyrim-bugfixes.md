@@ -8,22 +8,28 @@ folder: mythic-skyrim
 datatable: true
 ---
 
+
 ## USSEP
 The Unofficial Skyrim Special Edition Patch (USSEP) fixes hundreds of gameplay, quest, NPC, object, item, text and placement bugs with the goal to eventually fix every bug with Skyrim Special Edition not officially resolved by the developers to the limits of the Creation Kit and community-developed tools.
 
 Click this link to view the updated and complete [USSEP Changelog].
 
-[Unofficial Skyrim Creation Club Content Patches] is a bundle of patches to fix the bugs in the Skyrim Creation Club content as well as resolve conflicts between Creation Club mods and the Unofficial Skyrim Special Edition Patch (USSEP).
+[Unofficial Skyrim Creation Club Content Patches] (USCCCP) is a bundle of patches to fix the bugs in the Skyrim Creation Club content as well as resolve conflicts between Creation Club mods and the Unofficial Skyrim Special Edition Patch (USSEP).
+
+Mythic Skyrim integrates and supports all Creation Club content.
 
 Care was taken to ensure other mods integrated into the modlist remained USSEP compatible.
 
-
-## SKSE Fixes
 It is important to note that USSEP does not make any fixes that would require SKSE. For fixes that require SKSE, a collection of mods are listed below.
 
-You can search to see if a particular bug from the vanilla game not addressed by USSEP has been addressed by another mod in the search bar below.
+
+## SKSE Fixes
+There are many bugs in the vanilla game that require SKSE to properly resolve.
+
+You can search to see if a particular bug from the vanilla game not handled by USSEP has been addressed by another mod in the search bar below.
 
 The purpose of this table is to ensure there are no redundancies or conflicts in included vanilla bugfixes, without needing to cross-reference many mod page descriptions.
+
 
 ----
 <div class="datatable-begin"></div>
@@ -42,6 +48,7 @@ Terrain Decals                          | Scrambled Bugs             | Fixes dec
 Training Menu Text                      | Scrambled Bugs             | Fixes the cost of a lesson displayed in the training menu not being affected by any buffs or debuffs to the relevant skill.
 Weapon Charge                           | Scrambled Bugs             | Fixes the charge of equipped enchanted weapons only being restored to the charge they were when last equipped or recharged.
 Enchantment Cost                        | Scrambled Eggchantments    | Fixes the value of player enchanted items and the amount of charge that player enchanted weapons is drained not being saved (article). This is an alternative to the Enchantment Reload Fix.
+Multiple Enchantment Effects            | Scrambled Eggchantments    | Your skill in enchanting improves each of an enchantments effects, instead of only the costliest effect. This affects enchantments with multiple effects
 ArcheryDownwardAiming                   | SSE Engine Fixes           | Fix a bug where projectiles sometimes don't fire properly if you're aiming downward. Ported from Cobb's LE fix. (see here)
 AnimationLoadSignedCrash                | SSE Engine Fixes           | Fix an improper unsigned/signed conversion. Should allow loading more animations before a CTD 
 BethesdaNetCrash                        | SSE Engine Fixes           | Fixes a crash on startup caused by improper handling of non-ASCII characters in Bethesda.net HTTP response headers. 
@@ -67,6 +74,13 @@ WeaponBlockScaling                      | SSE Engine Fixes           | Fixes wea
 CleanSKSECosaves                        | SSE Engine Fixes           | Deletes SKSE cosaves with no matching save on launch.
 CellInit                                | SSE Engine Fixes           | Fixes a rare crash where a form does not get converted from an id to a pointer.
 UseTBBMalloc                            | SSE Engine Fixes           | Replaces standard malloc with tbbmalloc.
+FormCaching                             | SSE Engine Fixes           | Caches recently accessed forms. Similar to SSE Fixes.
+MaxStdio                                | SSE Engine Fixes           | Raises max file handle limit from 512 to 2048, which should fix "False Save Corruption" bug in most cases.
+UseTBBMalloc                            | SSE Engine Fixes           | Replaces standard malloc with tbbmalloc.
+SaveAddedSoundCategories                | SSE Engine Fixes           | Saves volume settings for mod-added sound categories to a separate ini file. This functionality is the same as Audio Overhaul for Skyrim SE's dll, but they will not conflict.
+TreeLODReferenceCaching                 | SSE Engine Fixes           | Requires FormCaching. Fixes the very slow Tree LOD function that causes framerate drops most noticeable in Riften. Similar to SSE Fixes.
+WaterflowAnimation                      | SSE Engine Fixes           | Decouples water flow animation from in-game timescale, so that decreasing/increasing your timescale doesnt mess with the water animation speed.
+EnableAchievementsWIthMods              | SSE Engine Fixes           | Enables achievements when you have mods installed.
 
 <div class="datatable-end"></div>
 
