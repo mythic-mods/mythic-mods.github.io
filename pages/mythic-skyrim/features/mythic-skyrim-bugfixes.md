@@ -10,16 +10,56 @@ datatable: true
 
 
 ## USSEP
+
 [Unofficial Skyrim Special Edition Patch] (USSEP) fixes hundreds of gameplay, quest, NPC, object, item, text and placement bugs with the goal to eventually fix every bug with Skyrim Special Edition not officially resolved by the developers to the limits of the Creation Kit and community-developed tools. Click this link to view the updated and complete [USSEP Changelog].
 
-[Unofficial Skyrim Creation Club Content Patches] (USCCCP) is a bundle of patches to fix the bugs in the Skyrim Creation Club content as well as resolve conflicts between Creation Club mods and the Unofficial Skyrim Special Edition Patch (USSEP).
+[Unofficial Skyrim Creation Club Content Patches] (USCCCP) is a bundle of patches to fix the bugs in the Skyrim Creation Club content as well as resolve conflicts between Creation Club mods and USSEP.
 
 Mythic Skyrim integrates and supports all Creation Club content. Care was taken to ensure other mods integrated into the modlist remained USSEP compatible.
 
-It is important to note that USSEP does not make any fixes that would require SKSE. For fixes that require SKSE, a collection of mods are listed below.
+It is important to note that USSEP does not make any fixes that would require SKSE. For fixes that require SKSE, consult the table below.
+
+
+## Mesh & Texture Fixes
+
+Weapons Armor Clothing and Clutter Fixes
+- Corrects many of the bugs found in the vanilla weapon, armor, clothing, jewelry, and clutter records.
+- Improves consistency and balance between different items (value, weight, damage, keywords, etc).
+- Weapons and armor will scale in a predictable and consistent manner.
+- The strength of an enchantment on a piece of enchanted jewelry is now properly reflected by the quality of the base jewelry.
+- Perks that didn't apply consistently to all items in the game have been fixed.
+- Female clothing variants will now use the correct texture in first-person.
+- Changes the crafting categories to help organize and declutter the crafting menus.
+- Increases the speed of arrows and bolts by 50% and makes them fly at a slightly flatter trajectory.
+- Changes the stats and keywords for the dragon priest masks to better balance them with other gameplay options.
+- Adjusts the stats of Dwarven, Elven, and Orcish weapons to make them consistent with the rank and quality of their respective armors and the progression of the Smithing perks.
+- Switches the values and stats of Daedric and Dragonbone weapons, so that Daedric are the more powerful.
+- Some previously unplayable or inaccessible items are now playable and/or accessible in game.
+- Allows circlets to be worn with hoods.
+- Almost all instances of hooded robes have been removed from the game and replaced with separate robe and hood combinations.
+- Adjusts the loot found in certain furniture containers to be consistent with both the class and the type of furniture.
+- Certain items have been renamed for easier sorting or to better fit the in-game appearance of that item.
+- Necklaces and/or rings that were invisible when worn with certain clothing can now be seen.
+- Potion bottles will now use the correct meshes, and Poison bottles will no longer appear flat and dull.
+
+Armor Mesh Fixes SE
+- Clipping, skinning, other bad deformations
+- Bad normals and tangents
+- Various mesh fixes, including missing partitions and incorrect meshes
+
+Assorted Mesh Fixes
+- Incorrectly flagged meshes not casting shadows, receiving shadows
+- Incorrectly flagged meshes not contributing to depth buffer, and thus has incorrect depth of field
+- Incorrectly flagged meshes not being reflected in water
+- Missing/inaccurate collision
+- Bad normals and tangents
+- Strange lighting flags
+- Bad geometry causing Z-fighting
+- Broken UVs
 
 
 ## SKSE Fixes
+
 There are many bugs in the vanilla game that require SKSE to properly resolve.
 
 You can search to see if a particular bug from the vanilla game not handled by USSEP has been addressed by another mod in the search bar below.
