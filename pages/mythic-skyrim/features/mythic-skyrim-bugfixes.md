@@ -60,7 +60,7 @@ Assorted Mesh Fixes
 
 ## SKSE Fixes
 
-There are many bugs in the vanilla game that require SKSE to properly resolve.
+There are many bugs in the vanilla game that require SKSE to resolve.
 
 You can search to see if a particular bug from the vanilla game not handled by USSEP has been addressed by another mod in the search bar below.
 
