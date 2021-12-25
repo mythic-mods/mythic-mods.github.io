@@ -22,6 +22,12 @@ It is important to note that USSEP does not make any fixes that would require SK
 
 ## Mesh & Texture Fixes
 
+<details>
+<summary>Weapons Armor Clothing and Clutter Fixes</summary>
+<br>
+This is how you dropdown.
+</details>
+
 Weapons Armor Clothing and Clutter Fixes
 - Corrects many of the bugs found in the vanilla weapon, armor, clothing, jewelry, and clutter records.
 - Improves consistency and balance between different items (value, weight, damage, keywords, etc).
