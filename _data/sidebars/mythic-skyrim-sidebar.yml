@@ -28,6 +28,9 @@ entries:
     - title: Bugfixes
       url: /mythic-skyrim-bugfixes.html
       output: web
+    - title: Visual Overhaul
+      url: /mythic-skyrim-visuals.html
+      output: web
   - title: Post-Installation
     output: web
     folderitems:
