@@ -1,9 +1,11 @@
 ---
-title: Mythic Skyrim
+title: Bugfixes
+summary: Overview of bugfixes in Mythic Skyrim.
+permalink: mythic-skyrim-bugfixes.html
 sidebar: mythic-skyrim-sidebar
 toc: true
-permalink: mythic-skyrim-bugfixes.html
 folder: mythic-skyrim
+datatable: true
 ---
 
 <div class="datatable-begin"></div>
