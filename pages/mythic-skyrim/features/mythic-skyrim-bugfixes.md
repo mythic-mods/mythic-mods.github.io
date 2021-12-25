@@ -1,5 +1,5 @@
 ---
-title: Bugfixes
+title: Fixes
 summary: Overview of bugfixes in Mythic Skyrim.
 permalink: mythic-skyrim-bugfixes.html
 sidebar: mythic-skyrim-sidebar
