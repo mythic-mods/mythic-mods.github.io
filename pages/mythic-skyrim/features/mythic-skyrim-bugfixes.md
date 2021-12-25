@@ -24,10 +24,12 @@ It is important to note that USSEP does not make any fixes that would require SK
 
 <button type="button" class="btn btn-info" data-toggle="collapse" data-target="#demo">Weapons Armor Clothing and Clutter Fixes</button>
 <div id="demo" class="collapse">
+  
   - Corrects many of the bugs found in the vanilla weapon, armor, clothing, jewelry, and clutter records.
   - Improves consistency and balance between different items (value, weight, damage, keywords, etc).
   - Weapons and armor will scale in a predictable and consistent manner.
   - The strength of an enchantment on a piece of enchanted jewelry is now properly reflected by the quality of the base jewelry.
+  
 </div>
 
 <div class="panel-group">
