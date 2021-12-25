@@ -8,7 +8,7 @@ folder: mythic-skyrim
 datatable: true
 ---
 
-## Unofficial Skyrim Special Edition Patch
+## USSEP
 The Unofficial Skyrim Special Edition Patch (USSEP) fixes hundreds of gameplay, quest, NPC, object, item, text and placement bugs with the goal to eventually fix every bug with Skyrim Special Edition not officially resolved by the developers to the limits of the Creation Kit and community-developed tools.
 
 Click this link to view the updated and complete [USSEP Changelog].
@@ -18,7 +18,7 @@ Click this link to view the updated and complete [USSEP Changelog].
 Care was taken to ensure other mods integrated into the modlist remained USSEP compatible.
 
 
-## SKSE Required Fixes
+## SKSE Fixes
 It is important to note that USSEP does not make any fixes that would require SKSE. For fixes that require SKSE, a collection of mods are listed below.
 
 You can search to see if a particular bug from the vanilla game not addressed by USSEP has been addressed by another mod in the search bar below.
@@ -64,6 +64,9 @@ UnequipAllCrash                         | SSE Engine Fixes           | Fixes a c
 VerticalLookSensitivity                 | SSE Engine Fixes           | Makes vertical look sensitivity not tied to framerate.
 UnequipAllCrash                         | SSE Engine Fixes           | Fixes a crash when invoking "Actor.UnequipAll" on an actor without an AI process.
 WeaponBlockScaling                      | SSE Engine Fixes           | Fixes weapon blocking so it correctly scales off of the blocking actor's weapon.
+CleanSKSECosaves                        | SSE Engine Fixes           | Deletes SKSE cosaves with no matching save on launch.
+CellInit                                | SSE Engine Fixes           | Fixes a rare crash where a form does not get converted from an id to a pointer.
+UseTBBMalloc                            | SSE Engine Fixes           | Replaces standard malloc with tbbmalloc.
 
 <div class="datatable-end"></div>
 
