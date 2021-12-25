@@ -22,21 +22,12 @@ It is important to note that USSEP does not make any fixes that would require SK
 
 ## Mesh & Texture Fixes
 
-<details>
-  
-  <summary>Weapons Armor Clothing and Clutter Fixes</summary>
-
-  This is a test.
-
-  - This is also a test.
-  
-</details>
-
-<button type="button" class="btn btn-info" data-toggle="collapse" data-target="#demo">Simple collapsible</button>
+<button type="button" class="btn btn-info" data-toggle="collapse" data-target="#demo">Weapons Armor Clothing and Clutter Fixes</button>
 <div id="demo" class="collapse">
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit,
-  sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+  - Corrects many of the bugs found in the vanilla weapon, armor, clothing, jewelry, and clutter records.
+  - Improves consistency and balance between different items (value, weight, damage, keywords, etc).
+  - Weapons and armor will scale in a predictable and consistent manner.
+  - The strength of an enchantment on a piece of enchanted jewelry is now properly reflected by the quality of the base jewelry.
 </div>
 
 Weapons Armor Clothing and Clutter Fixes
