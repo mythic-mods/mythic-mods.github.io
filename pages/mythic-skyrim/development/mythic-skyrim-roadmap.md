@@ -31,6 +31,7 @@ Each phase is not meant to be a final product, but rather a comprehensive workin
 
 ### Bugfixes
 - [USSEP](https://www.nexusmods.com/skyrimspecialedition/mods/266)
+- [Unofficial Skyrim Creation Club Content Patches](https://www.nexusmods.com/skyrimspecialedition/mods/18975)
 - [SSE Engine Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/17230)
 - [Scrambled Bugs](https://www.nexusmods.com/skyrimspecialedition/mods/43532)
 
