@@ -50,7 +50,7 @@ feedback_disable: true
 highlighter: rouge
 # library used for syntax highlighting
 
-markdown: kramdown
+markdown: CommonMarkGhPages
 kramdown:
  input: GFM
  auto_ids: true
