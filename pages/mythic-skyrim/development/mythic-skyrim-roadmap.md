@@ -120,9 +120,11 @@ Each phase is not meant to be a final product, but rather a comprehensive workin
 - Patches
 
 
-## Phase 9 - New Assets (Post-release)
+## Phase 9 - New Content (Post-release)
 Integrate and balance new assets (equipment, monsters, locations, etc.)
+- Cutting Room Floor
 - Wyrmstooth
 - Falskaar
 - Immersive Armors
+- Armor Variants Expansion
 - Immersive Creatures
