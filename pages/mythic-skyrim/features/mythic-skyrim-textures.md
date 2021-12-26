@@ -1,6 +1,6 @@
 ---
 title: Meshes & Textures
-summary: Overview of the visual overhaul.
+summary: Overview of mesh and texture changes.
 permalink: mythic-skyrim-textures.html
 sidebar: mythic-skyrim-sidebar
 toc: true
