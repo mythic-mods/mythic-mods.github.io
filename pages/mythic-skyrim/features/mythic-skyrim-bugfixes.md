@@ -45,7 +45,6 @@ It is important to note that USSEP does not make any fixes that would require SK
         <li class="list-group-item">Improves consistency and balance between different items (value, weight, damage, keywords, etc).</li>
         <li class="list-group-item">Weapons and armor will scale in a predictable and consistent manner.</li>
       </ul>
-      <div class="panel-footer">Footer</div>
     </div>
   </div>
 </div>
