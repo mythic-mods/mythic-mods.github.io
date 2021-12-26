@@ -28,8 +28,14 @@ entries:
     - title: Bugfixes
       url: /mythic-skyrim-bugfixes.html
       output: web
-    - title: Visual Overhaul
-      url: /mythic-skyrim-visuals.html
+    - title: User Interface
+      url: /mythic-skyrim-ui.html
+      output: web
+    - title: Meshes & Textures
+      url: /mythic-skyrim-textures.html
+      output: web
+    - title: Lighting
+      url: /mythic-skyrim-lighting.html
       output: web
   - title: Post-Installation
     output: web
