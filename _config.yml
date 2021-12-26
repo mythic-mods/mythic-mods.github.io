@@ -104,7 +104,7 @@ description: "Mythic Mods."
 # the description is used in the feed.xml file
 
 
-skyrim-project: Mythic Skyrim
+skyrim-project: "Mythic Skyrim"
 # Project codes
 
 # needed for sitemap.xml file only
