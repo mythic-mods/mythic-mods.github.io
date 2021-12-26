@@ -1,6 +1,6 @@
 ---
 title: User Interface
-summary: Overview of user interface improvements and features integrated with Mythic Skyrim.
+summary: Overview of user interface improvements and features integrated with {{ site.skyrim-project }}.
 permalink: mythic-skyrim-interface.html
 sidebar: mythic-skyrim-sidebar
 toc: true
