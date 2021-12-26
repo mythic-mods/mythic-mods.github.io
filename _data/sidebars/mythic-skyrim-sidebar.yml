@@ -37,6 +37,16 @@ entries:
     - title: Lighting
       url: /mythic-skyrim-lighting.html
       output: web
+    - title: Animation
+      url: /mythic-skyrim-animation.html
+      output: web
+    - title: Audio
+      url: /mythic-skyrim-audio.html
+      output: web
+    - title: Characters
+      url: /mythic-skyrim-characters.html
+      output: web
+      
   - title: Post-Installation
     output: web
     folderitems:
