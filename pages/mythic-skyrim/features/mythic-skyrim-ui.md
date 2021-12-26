@@ -1,11 +1,20 @@
 ---
 title: User Interface
 summary: Overview of integrated user interface improvements and features.
-permalink: mythic-skyrim-interface.html
+permalink: mythic-skyrim-ui.html
 sidebar: mythic-skyrim-sidebar
 toc: true
 folder: mythic-skyrim
 ---
+
+<span class="label label-warning">WIP</span>
+
+## Overview
+
+- [SkyUI](https://www.nexusmods.com/skyrimspecialedition/mods/12604)
+- [Better Dialogue Controls](https://www.nexusmods.com/skyrimspecialedition/mods/1429)
+- [Better MessageBox Controls](https://www.nexusmods.com/skyrimspecialedition/mods/1428)
+
 
 ## SkyUI
 
