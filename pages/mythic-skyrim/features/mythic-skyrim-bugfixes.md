@@ -1,6 +1,6 @@
 ---
 title: Fixes
-summary: Overview of some vanilla game bugfixes integrated with {{ site.skyrim-project }}.
+summary: Overview of integrated vanilla game bugfixes.
 permalink: mythic-skyrim-bugfixes.html
 sidebar: mythic-skyrim-sidebar
 toc: true
