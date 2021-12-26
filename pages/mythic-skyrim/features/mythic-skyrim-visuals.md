@@ -7,6 +7,8 @@ toc: true
 folder: mythic-skyrim
 ---
 
+<span class="label label-warning">WIP</span>
+
 ## Overview
 
 Mods like: Texture Pack Combiner, Special Edition Texture Overhaul Guide, Skyrim Mod Combiner, and similar mods have attempted this in the past. All of which have since been abandoned.
