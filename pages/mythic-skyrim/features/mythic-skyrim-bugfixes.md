@@ -44,32 +44,26 @@ It is important to note that USSEP does not make any fixes that would require SK
         <li class="list-group-item">Corrects many of the bugs found in the vanilla weapon, armor, clothing, jewelry, and clutter records.</li>
         <li class="list-group-item">Improves consistency and balance between different items (value, weight, damage, keywords, etc).</li>
         <li class="list-group-item">Weapons and armor will scale in a predictable and consistent manner.</li>
+        <li class="list-group-item">The strength of an enchantment on a piece of enchanted jewelry is now properly reflected by the quality of the base jewelry.</li>
+        <li class="list-group-item">Perks that didn't apply consistently to all items in the game have been fixed.</li>
+        <li class="list-group-item">Female clothing variants will now use the correct texture in first-person.</li>
+        <li class="list-group-item">Changes the crafting categories to help organize and declutter the crafting menus.</li>
+        <li class="list-group-item">Increases the speed of arrows and bolts by 50% and makes them fly at a slightly flatter trajectory.</li>
+        <li class="list-group-item">Changes the stats and keywords for the dragon priest masks to better balance them with other gameplay options.</li>
+        <li class="list-group-item">Adjusts the stats of Dwarven, Elven, and Orcish weapons to make them consistent with the rank and quality of their respective armors and the progression of the Smithing perks.</li>
+        <li class="list-group-item">Switches the values and stats of Daedric and Dragonbone weapons, so that Daedric are the more powerful.</li>
+        <li class="list-group-item">Some previously unplayable or inaccessible items are now playable and/or accessible in game.</li>
+        <li class="list-group-item">Allows circlets to be worn with hoods.</li>
+        <li class="list-group-item">Almost all instances of hooded robes have been removed from the game and replaced with separate robe and hood combinations.</li>
+        <li class="list-group-item">Adjusts the loot found in certain furniture containers to be consistent with both the class and the type of furniture.</li>
+        <li class="list-group-item">Certain items have been renamed for easier sorting or to better fit the in-game appearance of that item.</li>
+        <li class="list-group-item">Necklaces and/or rings that were invisible when worn with certain clothing can now be seen.</li>
+        <li class="list-group-item">Potion bottles will now use the correct meshes, and Poison bottles will no longer appear flat and dull.</li>
       </ul>
     </div>
   </div>
 </div>
 
-
-
-Weapons Armor Clothing and Clutter Fixes
-- Corrects many of the bugs found in the vanilla weapon, armor, clothing, jewelry, and clutter records.
-- Improves consistency and balance between different items (value, weight, damage, keywords, etc).
-- Weapons and armor will scale in a predictable and consistent manner.
-- The strength of an enchantment on a piece of enchanted jewelry is now properly reflected by the quality of the base jewelry.
-- Perks that didn't apply consistently to all items in the game have been fixed.
-- Female clothing variants will now use the correct texture in first-person.
-- Changes the crafting categories to help organize and declutter the crafting menus.
-- Increases the speed of arrows and bolts by 50% and makes them fly at a slightly flatter trajectory.
-- Changes the stats and keywords for the dragon priest masks to better balance them with other gameplay options.
-- Adjusts the stats of Dwarven, Elven, and Orcish weapons to make them consistent with the rank and quality of their respective armors and the progression of the Smithing perks.
-- Switches the values and stats of Daedric and Dragonbone weapons, so that Daedric are the more powerful.
-- Some previously unplayable or inaccessible items are now playable and/or accessible in game.
-- Allows circlets to be worn with hoods.
-- Almost all instances of hooded robes have been removed from the game and replaced with separate robe and hood combinations.
-- Adjusts the loot found in certain furniture containers to be consistent with both the class and the type of furniture.
-- Certain items have been renamed for easier sorting or to better fit the in-game appearance of that item.
-- Necklaces and/or rings that were invisible when worn with certain clothing can now be seen.
-- Potion bottles will now use the correct meshes, and Poison bottles will no longer appear flat and dull.
 
 Armor Mesh Fixes SE
 - Clipping, skinning, other bad deformations
