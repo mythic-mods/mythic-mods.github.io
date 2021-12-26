@@ -8,6 +8,14 @@ folder: mythic-skyrim
 datatable: true
 ---
 
+## Overview
+
+{{ skyrim-project }} includes a full collection of vanilla game bugfixes. This page focuses on core gameplay and engine fixes made by USSEP and various included SKSE plugins.
+
+For bugfixes related to meshes and textures, see [Visual Overhaul](mythic-skyrim-visuals.html).
+
+For general UI improvements and fixes see [User Interface](mythic-skyrim-interface.html).  
+
 
 ## USSEP
 
