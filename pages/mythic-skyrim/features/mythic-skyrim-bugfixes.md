@@ -8,13 +8,15 @@ folder: mythic-skyrim
 datatable: true
 ---
 
+<span class="label label-warning">WIP</span>
+
 ## Overview
 
-{{ site.skyrim-project }} includes a full collection of vanilla game bugfixes. This page focuses on core gameplay and engine fixes made by USSEP and various included SKSE plugins.
+{{ site.skyrim-project }} includes a full collection of vanilla game bugfixes. This page focuses on core gameplay and engine fixes made by USSEP and various SKSE plugins included with {{ site.skyrim-project }}.
 
-For bugfixes related to meshes and textures, see [Visual Overhaul](mythic-skyrim-visuals.html).
+For bugfixes and improvements related to meshes and textures, see [Meshes & Textures](mythic-skyrim-textures.html).
 
-For general UI improvements and fixes see [User Interface](mythic-skyrim-interface.html).  
+For UI improvements and fixes, see [User Interface](mythic-skyrim-ui.html).  
 
 
 ## USSEP
