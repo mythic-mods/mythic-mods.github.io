@@ -11,7 +11,7 @@ Release management plan.
 Each phase is not meant to be a final product, but rather a comprehensive working base to continue development on.
 
 
-## Phase 1 - Framework (Done)
+## Phase 0 - Framework (Done)
 ### Tools
 - Mod Organizer 2
 - SSEEdit
@@ -26,8 +26,9 @@ Each phase is not meant to be a final product, but rather a comprehensive workin
 
 ### Extensions
 - [SKSE](https://skse.silverlock.org/)
-- [XPMSE](https://www.nexusmods.com/skyrimspecialedition/mods/1988)
-- [Nemesis](https://www.nexusmods.com/skyrimspecialedition/mods/33746)
+
+
+## Phase 1 - Bugfixes
 
 ### Bugfixes
 - [USSEP](https://www.nexusmods.com/skyrimspecialedition/mods/266)
@@ -35,18 +36,19 @@ Each phase is not meant to be a final product, but rather a comprehensive workin
 - [SSE Engine Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/17230)
 - [Scrambled Bugs](https://www.nexusmods.com/skyrimspecialedition/mods/43532)
 
+
+## Phase 2 - UI
+
 ### Interface
 - [SkyUI](https://www.nexusmods.com/skyrimspecialedition/mods/12604)
 - [Better Dialogue Controls](https://www.nexusmods.com/skyrimspecialedition/mods/1429)
 - [Better MessageBox Controls](https://www.nexusmods.com/skyrimspecialedition/mods/1428)
 
 
-## Phase 2 - Visual Overhaul (WIP)
-- Meshes
-- Textures
+## Phase 3 - [Meshes & Textures](mythic-skyrim-textures.md)
 
 
-## Phase 3 - Lighting
+## Phase 4 - Lighting
 - [LUX](https://www.nexusmods.com/skyrimspecialedition/mods/43158?tab=files)
 - [Lux Orbis](https://www.nexusmods.com/skyrimspecialedition/mods/56095)
 - [Cathedral Weathers and Seasons](https://www.nexusmods.com/skyrimspecialedition/mods/24791)
@@ -55,7 +57,7 @@ Each phase is not meant to be a final product, but rather a comprehensive workin
 - [Rudy ENB SE for Cathedral Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/39113?tab=files)
 
 
-## Phase 4 - Sound
+## Phase 5 - Sound
 - [Unofficial High Definition Audio Project](https://www.nexusmods.com/skyrimspecialedition/mods/18115)
 - [Lucidity Sound FX SSE](https://www.nexusmods.com/skyrimspecialedition/mods/1841/)
 - [Audio Overhaul for Skyrim SE](https://www.nexusmods.com/skyrimspecialedition/mods/12466)
@@ -68,7 +70,9 @@ Each phase is not meant to be a final product, but rather a comprehensive workin
 - [True 3D Sound for Headphones](https://www.nexusmods.com/skyrimspecialedition/mods/1897/)
 
 
-## Phase 5 - Animation
+## Phase 6 - Animation
+- [XPMSE](https://www.nexusmods.com/skyrimspecialedition/mods/1988)
+- [Nemesis](https://www.nexusmods.com/skyrimspecialedition/mods/33746)
 - [Dynamic Animation Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/33746)
 - [EVG Conditional Idles](https://www.nexusmods.com/skyrimspecialedition/mods/34006)
 - [EVG Animation Variance](https://www.nexusmods.com/skyrimspecialedition/mods/38534?tab=files)
@@ -77,7 +81,7 @@ Each phase is not meant to be a final product, but rather a comprehensive workin
 - [Flinching - Script Free Edition](https://www.nexusmods.com/skyrimspecialedition/mods/42550)
 
 
-## Phase 6 - NPCs
+## Phase 7 - NPCs
 ### Base
 - [KS Hairdos - SMP HDT Physics](https://www.nexusmods.com/skyrimspecialedition/mods/31300?tab=files)
 - [High Poly NPC Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/44155)
@@ -106,7 +110,7 @@ Each phase is not meant to be a final product, but rather a comprehensive workin
 - [Bijiin Family - Salt and Wind Textures SE](https://www.nexusmods.com/skyrimspecialedition/mods/17083)
 
 
-## Phase 7 - Gameplay
+## Phase 8 - Gameplay (v1+)
 ### Combat
 - [Combat Gameplay Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/33767)
 - [Archery Gameplay Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/24296)
@@ -115,12 +119,7 @@ Each phase is not meant to be a final product, but rather a comprehensive workin
 - [Realistic AI Detection SE](https://www.nexusmods.com/skyrimspecialedition/mods/2345)
 
 
-## Phase 8 - Integration
-- Balance
-- Patches
-
-
-## Phase 9 - New Content (Post-release)
+## Phase 9 - New Content (v1+)
 Integrate and balance new assets (equipment, monsters, locations, etc.)
 - Cutting Room Floor
 - Wyrmstooth
