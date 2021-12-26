@@ -10,7 +10,7 @@ datatable: true
 
 ## Overview
 
-{{ skyrim-project }} includes a full collection of vanilla game bugfixes. This page focuses on core gameplay and engine fixes made by USSEP and various included SKSE plugins.
+{{ site.skyrim-project }} includes a full collection of vanilla game bugfixes. This page focuses on core gameplay and engine fixes made by USSEP and various included SKSE plugins.
 
 For bugfixes related to meshes and textures, see [Visual Overhaul](mythic-skyrim-visuals.html).
 
@@ -32,9 +32,9 @@ It is important to note that USSEP does not make any fixes that would require SK
 
 There are many bugs in the vanilla game that require SKSE to be resolved.
 
-You can search to see if a particular bug from the vanilla game not handled by USSEP has been addressed by another mod in the search bar below.
+You can search to see which bugs from the vanilla game are addressed by SKSE plugins, as well as the source mod for the fix, in the table below.
 
-The purpose of this table is to ensure there are no redundancies or conflicts in included vanilla bugfixes, without needing to cross-reference many mod page descriptions.
+The purpose of this table is to ensure there are no redundancies or conflicts with vanilla bugfixes made by SKSE plugins, without needing to cross-reference many mod page descriptions.
 
 
 ----
