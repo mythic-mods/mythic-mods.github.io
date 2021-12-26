@@ -1,6 +1,6 @@
 ---
 title: Visual Overhaul
-summary: Overview of the {{ site.skyrim-project }} visual overhaul.
+summary: Overview of the visual overhaul.
 permalink: mythic-skyrim-visuals.html
 sidebar: mythic-skyrim-sidebar
 toc: true
