@@ -1,6 +1,6 @@
 ---
 title: Fixes
-summary: Overview of some vanilla game bugfixes integrated with Mythic Skyrim.
+summary: Overview of some vanilla game bugfixes integrated with {{ site.skyrim-project }}.
 permalink: mythic-skyrim-bugfixes.html
 sidebar: mythic-skyrim-sidebar
 toc: true
@@ -23,7 +23,7 @@ For general UI improvements and fixes see [User Interface](mythic-skyrim-interfa
 
 [Unofficial Skyrim Creation Club Content Patches] (USCCCP) is a bundle of patches to fix the bugs in the Skyrim Creation Club content as well as resolve conflicts between Creation Club mods and USSEP.
 
-Mythic Skyrim integrates and supports all Creation Club content. Care was taken to ensure other mods integrated into the modlist remained USSEP compatible.
+{{ site.skyrim-project }} integrates and supports all Creation Club content. Care was taken to ensure other mods integrated into the modlist remained USSEP compatible.
 
 It is important to note that USSEP does not make any fixes that would require SKSE. For fixes that require SKSE, consult the table below.
 
