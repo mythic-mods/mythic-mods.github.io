@@ -22,9 +22,13 @@ entries:
     - title: Start Playing
       url: /mythic-skyrim-start-playing.html
       output: web
+  
   - title: Features
     output: web
     folderitems:
+    - title: Framework
+      url: /mythic-skyrim-framework.html
+      output: web
     - title: Bugfixes
       url: /mythic-skyrim-bugfixes.html
       output: web
@@ -59,6 +63,7 @@ entries:
     - title: Uninstalling
       url: /mythic-skyrim-uninstalling.html
       output: web
+  
   - title: Development
     output: web
     folderitems:
