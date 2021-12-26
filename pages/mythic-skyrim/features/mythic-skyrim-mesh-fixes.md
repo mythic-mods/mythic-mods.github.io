@@ -66,3 +66,18 @@ Assorted Mesh Fixes
 - Strange lighting flags
 - Bad geometry causing Z-fighting
 - Broken UVs
+
+
+
+These include improvements to:
+- topology/edgeflow
+- skinning and deformations
+- UV optimization
+- Parralax support
+- Dynamic snow/ash support
+- Missing mesh partitions
+- Incorrect texture assignments
+- Normals issues
+- Texture seams
+- Issues with meshes not casting/recieving shadows
+- meshes not contributing to depth buffer, and thus has incorrect depth of field
