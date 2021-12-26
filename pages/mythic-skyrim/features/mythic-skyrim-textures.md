@@ -1,7 +1,7 @@
 ---
-title: Visual Overhaul
+title: Meshes & Textures
 summary: Overview of the visual overhaul.
-permalink: mythic-skyrim-visuals.html
+permalink: mythic-skyrim-textures.html
 sidebar: mythic-skyrim-sidebar
 toc: true
 folder: mythic-skyrim
@@ -21,12 +21,18 @@ However, {{ site.skyrim-project }} *does not* mindlessly throw overhauls on top 
 
 These textures and meshes have been thoroughly compared on the individual asset level, with the best being recombined into a seamless and coherent custom visual experience wholly unique to {{ site.skyrim-project }}. The visual overhaul found in {{ site.skyrim-project }} is the culmination of hundreds of mods, from dozens of artists, together working thousands of hours for more than 10 years.
 
-See Contributions below for a list of just some of the cornerstone artists and mod authors that have contributed.
+See below for a list of just some of the cornerstone artists and mod authors that have contributed. Please endorse, donate, or leave comments of support for their contributions to Skyrim modding.
 
 
 ## Mesh & Texture Fixes
 
+{{ site.skyrim-project }} uses virtually every mesh and texture fix and improvment available as a foundation.
+
 All mods have been patched for compatibility with USSEP and other fixes outlined in the bugfixes page.
+
+- Weapons Armor Clothing and Clutter Fixes
+- Armor Mesh Fixes SE
+- Assorted Mesh Fixes
 
 
 ## Equipment
