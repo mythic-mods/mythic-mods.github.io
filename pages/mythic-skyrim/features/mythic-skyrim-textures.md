@@ -67,9 +67,9 @@ Mod    						                                 | Author                     | Cat
 
 
 
-[Texture Pack Combiner](https://www.nexusmods.com/skyrim/mods/20801/)
-[Special Edition Texture Overhaul Guide](https://www.nexusmods.com/skyrimspecialedition/mods/5883/)
-[Skyrim Mod Combiner](https://www.nexusmods.com/skyrim/mods/51467/)
+[Texture Pack Combiner]: (https://www.nexusmods.com/skyrim/mods/20801/)
+[Special Edition Texture Overhaul Guide]: (https://www.nexusmods.com/skyrimspecialedition/mods/5883/)
+[Skyrim Mod Combiner]: (https://www.nexusmods.com/skyrim/mods/51467/)
 
 [Static Mesh Improvement Mod]: (https://www.nexusmods.com/skyrimspecialedition/mods/659)
 [Static Mesh Improvement Mod Improvement Mod]: (https://www.nexusmods.com/skyrimspecialedition/mods/55543)
