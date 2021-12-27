@@ -53,35 +53,35 @@ Mod    						                                 | Author                     | Cat
 [Cathedral - Armory]                               | [JonnyWang13]              | Weapons & Armor
 [Rustic Clothing]                                  | [Gamwich]                  | Clothing
 
-[Static Mesh Improvement Mod Improvement Mod]: (https://www.nexusmods.com/skyrimspecialedition/mods/55543)
-[Weapons Armor Clothing and Clutter Fixes]: (https://www.nexusmods.com/skyrimspecialedition/mods/18994)
-[Armor Mesh Fixes SE]: (https://www.nexusmods.com/skyrimspecialedition/mods/39704)
-[Assorted Mesh Fixes]: (https://www.nexusmods.com/skyrimspecialedition/mods/32117)
-[Cathedral - Armory]: (https://www.nexusmods.com/skyrimspecialedition/mods/20199)
-[Rustic Clothing]: (https://www.nexusmods.com/skyrimspecialedition/mods/4703)
+[Static Mesh Improvement Mod Improvement Mod]: https://www.nexusmods.com/skyrimspecialedition/mods/55543
+[Weapons Armor Clothing and Clutter Fixes]: https://www.nexusmods.com/skyrimspecialedition/mods/18994
+[Armor Mesh Fixes SE]: https://www.nexusmods.com/skyrimspecialedition/mods/39704
+[Assorted Mesh Fixes]: https://www.nexusmods.com/skyrimspecialedition/mods/32117
+[Cathedral - Armory]: https://www.nexusmods.com/skyrimspecialedition/mods/20199
+[Rustic Clothing]: https://www.nexusmods.com/skyrimspecialedition/mods/4703
 
 <div class="datatable-end"></div>
 
 
 
-[Texture Pack Combiner]: (https://www.nexusmods.com/skyrim/mods/20801/)
-[Special Edition Texture Overhaul Guide]: (https://www.nexusmods.com/skyrimspecialedition/mods/5883/)
-[Skyrim Mod Combiner]: (https://www.nexusmods.com/skyrim/mods/51467/)
+[Texture Pack Combiner]: https://www.nexusmods.com/skyrim/mods/20801/
+[Special Edition Texture Overhaul Guide]: https://www.nexusmods.com/skyrimspecialedition/mods/5883/
+[Skyrim Mod Combiner]: https://www.nexusmods.com/skyrim/mods/51467/
 
-[Static Mesh Improvement Mod]: (https://www.nexusmods.com/skyrimspecialedition/mods/659)
-[Static Mesh Improvement Mod Improvement Mod]: (https://www.nexusmods.com/skyrimspecialedition/mods/55543)
-[Weapons Armor Clothing and Clutter Fixes]: (https://www.nexusmods.com/skyrimspecialedition/mods/18994)
-[Armor Mesh Fixes SE]: (https://www.nexusmods.com/skyrimspecialedition/mods/39704)
-[Assorted Mesh Fixes]: (https://www.nexusmods.com/skyrimspecialedition/mods/32117)
-[Cathedral - Armory]: (https://www.nexusmods.com/skyrimspecialedition/mods/20199)
-[Rustic Clothing]: (https://www.nexusmods.com/skyrimspecialedition/mods/4703)
+[Static Mesh Improvement Mod]: https://www.nexusmods.com/skyrimspecialedition/mods/659
+[Static Mesh Improvement Mod Improvement Mod]: https://www.nexusmods.com/skyrimspecialedition/mods/55543
+[Weapons Armor Clothing and Clutter Fixes]: https://www.nexusmods.com/skyrimspecialedition/mods/18994
+[Armor Mesh Fixes SE]: https://www.nexusmods.com/skyrimspecialedition/mods/39704
+[Assorted Mesh Fixes]: https://www.nexusmods.com/skyrimspecialedition/mods/32117
+[Cathedral - Armory]: https://www.nexusmods.com/skyrimspecialedition/mods/20199
+[Rustic Clothing]: https://www.nexusmods.com/skyrimspecialedition/mods/4703
 
 
-[Brumbek]: (https://www.nexusmods.com/skyrimspecialedition/users/283020)
-[Novelyst]: (https://www.nexusmods.com/skyrimspecialedition/users/100685828)
-[kryptopyr]: (https://www.nexusmods.com/skyrimspecialedition/users/4291352)
-[RenaPG]: (https://www.nexusmods.com/skyrimspecialedition/users/18456054)
-[wSkeever]: (https://www.nexusmods.com/skyrimspecialedition/users/7064860)
-[JonnyWang13]: (https://www.nexusmods.com/skyrimspecialedition/users/50222836)
-[Gamwich]: (https://www.nexusmods.com/skyrimspecialedition/users/5712421)
+[Brumbek]: https://www.nexusmods.com/skyrimspecialedition/users/283020
+[Novelyst]: https://www.nexusmods.com/skyrimspecialedition/users/100685828
+[kryptopyr]: https://www.nexusmods.com/skyrimspecialedition/users/4291352
+[RenaPG]: https://www.nexusmods.com/skyrimspecialedition/users/18456054
+[wSkeever]: https://www.nexusmods.com/skyrimspecialedition/users/7064860
+[JonnyWang13]: https://www.nexusmods.com/skyrimspecialedition/users/50222836
+[Gamwich]: https://www.nexusmods.com/skyrimspecialedition/users/5712421
 
