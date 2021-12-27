@@ -4,38 +4,80 @@ summary: Overview of mesh and texture changes.
 permalink: mythic-skyrim-textures.html
 sidebar: mythic-skyrim-sidebar
 toc: true
+datatable: true
 folder: mythic-skyrim
 ---
 
 <span class="label label-warning">WIP</span>
 
+
 ## Overview
 
-Mods like: Texture Pack Combiner, Special Edition Texture Overhaul Guide, Skyrim Mod Combiner, and similar mods have attempted this in the past. All of which have since been abandoned.
+{{ site.skyrim-project }} features a complete visual overhaul to the vanilla game.
 
-Over the many years and hundreds of hours of testing and comparing various mods, {{ site.skyrim-project }} has continued this cathedral-style approach to visual overhauls.
+Mods like: [Texture Pack Combiner], [Special Edition Texture Overhaul Guide], [Skyrim Mod Combiner], and similar mods have attempted this in the past. All of which have since been abandoned.
 
-In addition to including many custom or edited textures and meshes exclusive to the {{ site.skyrim-project }} modlist; {{ site.skyrim-project }} has individually hand-picked textures and meshes from virtually every texture mod, pack, and overhaul available. This includes mods on Nexus as well as many other sites. It also includes texture mods for both LE and SE, since they are generally cross-compatible.
+Over many years and hundreds of hours of testing and comparing various mods, {{ site.skyrim-project }} has continued this cathedral-style approach to visual overhauls.
 
-However, {{ site.skyrim-project }} *does not* mindlessly throw overhauls on top of each other and call it a day. Instead, the absolute best textures have been pulled from each individual mod and reconstructed into something new. In some cases, {{ site.skyrim-project }} may only use a handful of the best textures from an overhaul mod that contains hundreds.
+
+## Compilation
+
+{{ site.skyrim-project }} has individually hand-picked textures and meshes from virtually every texture mod, pack, and overhaul available. This includes mods from Nexus as well as many other sites. It also includes texture mods for both LE and SE, since they are generally cross-compatible. In addition, there are many custom or edited textures and meshes exclusive to {{ site.skyrim-project }} included as well.
+
+However, {{ site.skyrim-project }} *does not* mindlessly throw overhauls on top of each other and call it a day. Instead, the absolute best textures have been pulled from each individual mod and reconstructed into something new. In some extreme cases, only a handful of the best textures may be used from an overhaul mod that contains hundreds.
 
 These textures and meshes have been thoroughly compared on the individual asset level, with the best being recombined into a seamless and coherent custom visual experience wholly unique to {{ site.skyrim-project }}. The visual overhaul found in {{ site.skyrim-project }} is the culmination of hundreds of mods, from dozens of artists, together working thousands of hours for more than 10 years.
 
-See below for a list of just some of the cornerstone artists and mod authors that have contributed. Please endorse, donate, or leave comments of support for their contributions to Skyrim modding.
+See below for a list of just some of the cornerstone artists and mod authors that have contributed. Please endorse, donate, or leave comments of support for their contributions to the modding community.
 
 
-## Mesh & Texture Fixes
+## Mesh & Texture Mods
 
-{{ site.skyrim-project }} uses virtually every mesh and texture fix and improvment available as a foundation.
+The table below lists just some of the artists and mod authors that have contributed to the {{ site.skyrim-project }} visual overhaul.
 
-All mods have been patched for compatibility with USSEP and other fixes outlined in the bugfixes page.
+Keep in mind this is not a comprehensive list of all included mesh and texture mods.
+Visual development is constantly being updated and a complete list would be too extensive to list and timely to maintain.
+Instead, this is a list of the cornerstone foundational mods on which the visual overhaul is built.
 
-- Weapons Armor Clothing and Clutter Fixes
-- Armor Mesh Fixes SE
-- Assorted Mesh Fixes
+Please endorse, donate, or leave comments of support for their contributions to the modding community.
 
 
-## Equipment
+----
+<div class="datatable-begin"></div>
 
-Rustic Clothing 
-Cathedral - Armory (contains 50 mods)
+Mod    						                                 | Author                     | Category
+-------------------------------------------------- | -------------------------- | --------------------------
+[Static Mesh Improvement Mod]                      | [Brumbek]                  |
+[Static Mesh Improvement Mod Improvement Mod]      | [Novelyst]                 |
+[Weapons Armor Clothing and Clutter Fixes]         | [kryptopyr]                |
+[Armor Mesh Fixes SE]                              | [RenaPG]                   |
+[Assorted Mesh Fixes]                              | [wSkeever]                 |
+[Cathedral - Armory]                               | [JonnyWang13]              |
+[Rustic Clothing]                                  | [Gamwich]                  |
+
+
+<div class="datatable-end"></div>
+
+
+
+[Texture Pack Combiner](https://www.nexusmods.com/skyrim/mods/20801/)
+[Special Edition Texture Overhaul Guide](https://www.nexusmods.com/skyrimspecialedition/mods/5883/)
+[Skyrim Mod Combiner](https://www.nexusmods.com/skyrim/mods/51467/)
+
+[Static Mesh Improvement Mod]: (https://www.nexusmods.com/skyrimspecialedition/mods/659)
+[Static Mesh Improvement Mod Improvement Mod]: (https://www.nexusmods.com/skyrimspecialedition/mods/55543)
+[Weapons Armor Clothing and Clutter Fixes]: (https://www.nexusmods.com/skyrimspecialedition/mods/18994)
+[Armor Mesh Fixes SE]: (https://www.nexusmods.com/skyrimspecialedition/mods/39704)
+[Assorted Mesh Fixes]: (https://www.nexusmods.com/skyrimspecialedition/mods/32117)
+[Cathedral - Armory]: (https://www.nexusmods.com/skyrimspecialedition/mods/20199)
+[Rustic Clothing]: (https://www.nexusmods.com/skyrimspecialedition/mods/4703)
+
+
+[Brumbek]: (https://www.nexusmods.com/skyrimspecialedition/users/283020)
+[Novelyst]: (https://www.nexusmods.com/skyrimspecialedition/users/100685828)
+[kryptopyr]: (https://www.nexusmods.com/skyrimspecialedition/users/4291352)
+[RenaPG]: (https://www.nexusmods.com/skyrimspecialedition/users/18456054)
+[wSkeever]: (https://www.nexusmods.com/skyrimspecialedition/users/7064860)
+[JonnyWang13]: (https://www.nexusmods.com/skyrimspecialedition/users/50222836)
+[Gamwich]: (https://www.nexusmods.com/skyrimspecialedition/users/5712421)
+
