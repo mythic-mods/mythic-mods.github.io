@@ -55,6 +55,13 @@ Mod    						                                 | Author                     | Cat
 [Cathedral - Armory]                               | [JonnyWang13]              |
 [Rustic Clothing]                                  | [Gamwich]                  |
 
+[Static Mesh Improvement Mod]: (https://www.nexusmods.com/skyrimspecialedition/mods/659)
+[Static Mesh Improvement Mod Improvement Mod]: (https://www.nexusmods.com/skyrimspecialedition/mods/55543)
+[Weapons Armor Clothing and Clutter Fixes]: (https://www.nexusmods.com/skyrimspecialedition/mods/18994)
+[Armor Mesh Fixes SE]: (https://www.nexusmods.com/skyrimspecialedition/mods/39704)
+[Assorted Mesh Fixes]: (https://www.nexusmods.com/skyrimspecialedition/mods/32117)
+[Cathedral - Armory]: (https://www.nexusmods.com/skyrimspecialedition/mods/20199)
+[Rustic Clothing]: (https://www.nexusmods.com/skyrimspecialedition/mods/4703)
 
 <div class="datatable-end"></div>
 
