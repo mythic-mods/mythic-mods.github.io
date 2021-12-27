@@ -22,8 +22,8 @@ In addition to the required Mod Organizer 2 application, {{ site.skyrim-project 
 Below are some of the tools that come packaged with {{ site.skyrim-project }}:
 - [SSEEdit](https://www.nexusmods.com/skyrimspecialedition/mods/164)
 - [NifScope](https://github.com/niftools/nifskope/releases)
-- [BSA Extractor](https://www.nexusmods.com/skyrimspecialedition/mods/974/?tab=description)
-- [BodySlide](https://www.nexusmods.com/skyrimspecialedition/mods/201)
+- [BAE](https://www.nexusmods.com/skyrimspecialedition/mods/974/?tab=description)
+- [BodySlide & Outfit Studio](https://www.nexusmods.com/skyrimspecialedition/mods/201)
 - [LOOT](https://loot.github.io/)
 
 
