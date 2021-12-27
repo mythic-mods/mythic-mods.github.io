@@ -4,8 +4,8 @@ summary: Overview of integrated vanilla game bugfixes.
 permalink: mythic-skyrim-bugfixes.html
 sidebar: mythic-skyrim-sidebar
 toc: true
-folder: mythic-skyrim
 datatable: true
+folder: mythic-skyrim
 ---
 
 <span class="label label-warning">WIP</span>
