@@ -20,6 +20,11 @@ Mods like: [Texture Pack Combiner], [Special Edition Texture Overhaul Guide], [S
 Over many years and hundreds of hours of testing and comparing various mods, {{ site.skyrim-project }} has continued this cathedral-style approach to visual overhauls.
 
 
+## Style
+
+Insert fluff here...
+
+
 ## Compilation
 
 {{ site.skyrim-project }} has individually hand-picked textures and meshes from virtually every texture mod, pack, and overhaul available. This includes mods from Nexus as well as many other sites. It also includes texture mods for both LE and SE, since they are generally cross-compatible. In addition, there are many custom or edited textures and meshes exclusive to {{ site.skyrim-project }} included as well.
@@ -45,13 +50,13 @@ Please endorse, donate, or leave comments of support for their contributions to 
 
 Mod    						                                 | Author                     | Category
 -------------------------------------------------- | -------------------------- | --------------------------
-[Static Mesh Improvement Mod]                      | [Brumbek]                  |
-[Static Mesh Improvement Mod Improvement Mod]      | [Novelyst]                 |
-[Weapons Armor Clothing and Clutter Fixes]         | [kryptopyr]                |
-[Armor Mesh Fixes SE]                              | [RenaPG]                   |
-[Assorted Mesh Fixes]                              | [wSkeever]                 |
-[Cathedral - Armory]                               | [JonnyWang13]              |
-[Rustic Clothing]                                  | [Gamwich]                  |
+[Static Mesh Improvement Mod]                      | [Brumbek]                  | Fixes
+[Static Mesh Improvement Mod Improvement Mod]      | [Novelyst]                 | Fixes
+[Weapons Armor Clothing and Clutter Fixes]         | [kryptopyr]                | Fixes
+[Armor Mesh Fixes SE]                              | [RenaPG]                   | Fixes
+[Assorted Mesh Fixes]                              | [wSkeever]                 | Fixes
+[Cathedral - Armory]                               | [JonnyWang13]              | Weapons & Armor
+[Rustic Clothing]                                  | [Gamwich]                  | Clothing
 
 [Static Mesh Improvement Mod]: (https://www.nexusmods.com/skyrimspecialedition/mods/659)
 [Static Mesh Improvement Mod Improvement Mod]: (https://www.nexusmods.com/skyrimspecialedition/mods/55543)
