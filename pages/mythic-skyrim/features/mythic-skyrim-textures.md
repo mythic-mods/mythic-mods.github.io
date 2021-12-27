@@ -28,8 +28,6 @@ However, {{ site.skyrim-project }} *does not* mindlessly throw overhauls on top 
 
 These textures and meshes have been thoroughly compared on the individual asset level, with the best being recombined into a seamless and coherent custom visual experience wholly unique to {{ site.skyrim-project }}. The visual overhaul found in {{ site.skyrim-project }} is the culmination of hundreds of mods, from dozens of artists, together working thousands of hours for more than 10 years.
 
-See below for a list of just some of the cornerstone artists and mod authors that have contributed. Please endorse, donate, or leave comments of support for their contributions to the modding community.
-
 
 ## Mesh & Texture Mods
 
@@ -37,7 +35,7 @@ The table below lists just some of the artists and mod authors that have contrib
 
 Keep in mind this is not a comprehensive list of all included mesh and texture mods.
 Visual development is constantly being updated and a complete list would be too extensive to list and timely to maintain.
-Instead, this is a list of the cornerstone foundational mods on which the visual overhaul is built.
+Instead, this is a list of the most established mods on which the foundation of the visual overhaul is built.
 
 Please endorse, donate, or leave comments of support for their contributions to the modding community.
 
