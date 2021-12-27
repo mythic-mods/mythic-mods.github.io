@@ -10,6 +10,11 @@ folder: mythic-skyrim
 <span class="label label-warning">WIP</span>
 
 
+## Overview
+
+This page serves as a user reference for the various tools and other useful features included with {{ site.skyrim-project }}.
+
+
 ## Tools
 
 In addition to the required Mod Organizer 2 application, {{ site.skyrim-project }} comes packaged with a full suite of modding tools. These tools are added for user convenience and knowledge of their functionality is not required to play {{ site.skyrim-project }}. In the rare case where a user may need to use one of these tools to adjust settings during installation or setup, instructions will be provided.
@@ -34,7 +39,3 @@ The following files from the most recent version of SSE were cleaned using SSEEd
 - Hearthfire.esm
 - Dragonborn.esm
 - All Creation Club Content
-
-
-## Extensions
-- [SKSE](https://skse.silverlock.org/)
