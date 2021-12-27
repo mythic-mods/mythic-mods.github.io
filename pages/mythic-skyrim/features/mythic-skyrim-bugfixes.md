@@ -13,10 +13,8 @@ datatable: true
 ## Overview
 
 {{ site.skyrim-project }} includes a full collection of vanilla game bugfixes. This page focuses on core gameplay and engine fixes made by USSEP and various SKSE plugins included with {{ site.skyrim-project }}.
-
-For bugfixes and improvements related to meshes and textures, see [Meshes & Textures](mythic-skyrim-textures.html).
-
-For UI improvements and fixes, see [User Interface](mythic-skyrim-ui.html).  
+- For bugfixes and improvements related to meshes and textures, see [Meshes & Textures](mythic-skyrim-textures.html).
+- For UI improvements and fixes, see [User Interface](mythic-skyrim-ui.html).  
 
 
 ## USSEP
@@ -32,12 +30,11 @@ It is important to note that USSEP does not make any fixes that would require SK
 
 ## SKSE Fixes
 
-The [Skyrim Script Extender](https://skse.silverlock.org/) (SKSE) is a tool used by many Skyrim mods that expands scripting capabilities and adds additional functionality to the game. There are many bugs in the vanilla game that require SKSE to be resolved.
+The [Skyrim Script Extender] (SKSE) is a tool used by many Skyrim mods that expands scripting capabilities and adds additional functionality to the game. There are many bugs in the vanilla game that require SKSE to be resolved.
 
-You can search to see which bugs from the vanilla game are addressed by SKSE plugins, as well as the source mod for the fix, in the table below.
+You can search to see which SKSE plugin bugfixes are included with {{ site.skyrim-project }}, as well as the source mod for the fix, in the table below.
 
 The purpose of this table is to ensure there are no redundancies or conflicts with vanilla bugfixes made by SKSE plugins, without needing to cross-reference many mod page descriptions.
-
 
 ----
 <div class="datatable-begin"></div>
@@ -112,3 +109,5 @@ Load EditorIDs                          | powerofthree's Tweaks      | Loads edi
 [Unofficial Skyrim Special Edition Patch]: (https://www.nexusmods.com/skyrimspecialedition/mods/266)
 [USSEP Changelog]: (https://www.afkmods.com/Unofficial%20Skyrim%20Special%20Edition%20Patch%20Version%20History.html)
 [Unofficial Skyrim Creation Club Content Patches]: (https://www.nexusmods.com/skyrimspecialedition/mods/18975)
+[Skyrim Script Extender]: (https://skse.silverlock.org/)
+
