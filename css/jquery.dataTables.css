@@ -8,10 +8,10 @@ table.dataTable {
   border-collapse: separate;
   border-spacing: 0;
   /*
-   * Header and footer styles
+   * Header and footer
    */
   /*
-   * Body styles
+   * Body
    */
 }
 table.dataTable thead th,
