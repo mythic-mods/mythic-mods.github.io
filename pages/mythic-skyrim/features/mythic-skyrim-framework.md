@@ -10,14 +10,9 @@ folder: mythic-skyrim
 <span class="label label-warning">WIP</span>
 
 
-## Overview
-
-This page serves as a user reference for the various tools and other useful features included with {{ site.skyrim-project }}.
-
-
 ## Tools
 
-In addition to the required Mod Organizer 2 application, {{ site.skyrim-project }} comes packaged with a full suite of modding tools. These tools are added for user convenience and intricate knowledge of how to use them are not required to play {{ site.skyrim-project }}. In the rare case where a user may need to use one of these tools to adjust settings during installation or setup, instructions will be provided.
+In addition to the required Mod Organizer 2 application, {{ site.skyrim-project }} comes packaged with a full suite of modding tools. These tools are added for user convenience and knowledge of their functionality is not required to play {{ site.skyrim-project }}. In the rare case where a user may need to use one of these tools to adjust settings during installation or setup, instructions will be provided.
 
 Below are some of the tools that come packaged with {{ site.skyrim-project }}:
 - [SSEEdit](https://www.nexusmods.com/skyrimspecialedition/mods/164)
