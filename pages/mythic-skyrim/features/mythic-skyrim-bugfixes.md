@@ -32,7 +32,7 @@ It is important to note that USSEP does not make any fixes that would require SK
 
 ## SKSE Fixes
 
-There are many bugs in the vanilla game that require SKSE to be resolved.
+The [Skyrim Script Extender](https://skse.silverlock.org/) (SKSE) is a tool used by many Skyrim mods that expands scripting capabilities and adds additional functionality to the game. There are many bugs in the vanilla game that require SKSE to be resolved.
 
 You can search to see which bugs from the vanilla game are addressed by SKSE plugins, as well as the source mod for the fix, in the table below.
 
