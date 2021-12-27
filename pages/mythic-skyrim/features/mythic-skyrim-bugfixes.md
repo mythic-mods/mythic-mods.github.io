@@ -106,8 +106,8 @@ Load EditorIDs                          | powerofthree's Tweaks      | Loads edi
 
 
 
-[Unofficial Skyrim Special Edition Patch]: (https://www.nexusmods.com/skyrimspecialedition/mods/266)
-[USSEP Changelog]: (https://www.afkmods.com/Unofficial%20Skyrim%20Special%20Edition%20Patch%20Version%20History.html)
-[Unofficial Skyrim Creation Club Content Patches]: (https://www.nexusmods.com/skyrimspecialedition/mods/18975)
-[Skyrim Script Extender]: (https://skse.silverlock.org/)
+[Unofficial Skyrim Special Edition Patch]: https://www.nexusmods.com/skyrimspecialedition/mods/266
+[USSEP Changelog]: https://www.afkmods.com/Unofficial%20Skyrim%20Special%20Edition%20Patch%20Version%20History.html
+[Unofficial Skyrim Creation Club Content Patches]: https://www.nexusmods.com/skyrimspecialedition/mods/18975
+[Skyrim Script Extender]: https://skse.silverlock.org/
 
