@@ -20,7 +20,6 @@ folder: mythic-skyrim
 - [Pandorable’s NPCs - Dawnguard](https://www.nexusmods.com/skyrimspecialedition/mods/24135)
 - [Pandorable’s NPCs - Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/30680?tab=files)
 - [Pandorable’s Small Replacers AIO](https://www.nexusmods.com/skyrimspecialedition/mods/45606)
-- [Freya Graymane -  Olfina Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/12309)
 - [Bijin AIO - Hair Physics Patch](https://www.nexusmods.com/skyrimspecialedition/mods/34930)
 - [Bijiin Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/56047?tab=files)
 
