@@ -25,7 +25,7 @@ folder: mythic-skyrim
 
 {{ site.skyrim-project }} integrates and supports all Creation Club content. Care was taken to ensure other mods integrated into the modlist remained USSEP compatible.
 
-It is important to note that USSEP does not make any fixes that would require SKSE. For fixes that require SKSE, consult the table below.
+It is important to note that USSEP only incorporates fixes that can be ported through to consoles. So anything that goes into USSEP must be possible to correct without the use of script extenders (SKSE) or dll files. For fixes that require SKSE, consult the table below.
 
 
 ## SKSE Fixes
